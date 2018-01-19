@@ -94,6 +94,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 
 **4/3 Rational versus mechanistic modeling approaches**
 - Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
+- Uttal, W.R. (1990). On some two-way barriers between models and mechanisms. Perception & Psychophysics, 48, 188-203.
 
 **5/1 Computational cognitive neuroscience**
 - Anderson, J. R., Albert, M. V., & Fincham, J.M. (2005) Tracing Problem Solving in Real Time: fMRI Analysis of the Subject-Paced Tower of Hanoi. Journal of Cognitive Neuroscience, 17 1261-1274.
