@@ -12,9 +12,14 @@ PSYCH-GA 3405.002 (Psychology)
 DS-GA 3001.006 (Data Science)
 
 **Office hours**:  
-Todd Gureckis todd.gureckis@nyu.edu (Wednesdays 1-2 pm, or by appointment; 6 Washington Place, Meyer, Room 859)
-Brenden Lake brenden@nyu.edu (Wednesdays 10-11:30 am, or by appointment; 60 5th Ave., Room 610)  
-Alex Rich  asr443@nyu.edu (Tuesday 12:30-1:30 pm, or by appointment; 6 Washington Place, Meyer, Room 856)
+Todd Gureckis  
+todd.gureckis@nyu.edu (Wednesdays 1-2 pm, or by appointment; 6 Washington Place, Meyer, Room 859)  
+
+Brenden Lake  
+brenden@nyu.edu (Wednesdays 10-11:30 am, or by appointment; 60 5th Ave., Room 610)  
+
+Alex Rich  
+asr443@nyu.edu (Tuesday 12:30-1:30 pm, or by appointment; 6 Washington Place, Meyer, Room 856)  
 
 **Key questions**:
 - For cognitive scientists: Can we better understand human learning and thought by developing computational cognitive models?
@@ -26,7 +31,7 @@ Please note that this syllabus is not final and there may be further adjustments
 
 ## Pre-requisites
 - Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in the best position for approach the material. We will, when needed, review some of the basic technical concepts in lab.
-- Programming: For the homework/assignments, we will assume some basic familiarity with programming in Python or Matlab. If you are interested in the above topics and the programming is the main hang up, please consider enrolling. Again, we will review some of the programming basics in lab. An effort will be made to adjust the assignments to people's individual (and hopefully diverse) backgrounds as much as possible.
+- Programming:For the homework/assignments, we will assume some basic familiarity with programming in Python using the Jupyter Notebook system (http://jupyter.org).  We will review some of the programming basics in lab. This is a link to helpful tutorial for learning the basics of Python: http://openbookproject.net/thinkcs/python/english2e/ .
 
 ## Grading
 The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
@@ -59,7 +64,9 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - No assigned readings
 
 **1/30 Classification and category learning**
-- Readings TBD
+- Marr, D. (1982) “Vision” (Chapter 1)
+- Love, B.C., Medin, D.L, & Gureckis, T.M (2004). SUSTAIN: A Network Model of Category Learning. Psychological Review, 111, 309-332.
+- Sanborn, A. N., Griffiths, T. L., & Navarro, D. J. (2010). Rational approximations to rational models: Alternative algorithms for category learning. Psychological Review, 117 (4), 1144-1167.
 
 **2/6 Neural networks / Deep learning (part 1)**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
@@ -70,6 +77,26 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Elman, J. L. (1990). Finding structure in time. Cognitive Science, 14(2), 179-211.
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society.
 - \[optional\] Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
+
+**2/20 Reinforcement learning and decision making (part 1)**
+- Gureckis, T.M. and Love, B.C. (2015) Reinforcement learning: A computational perspective. Oxford Handbook of Computational and Mathematical Psychology, Edited by Busemeyer, J.R., Townsend, J., Zheng, W., and Eidels, A., Oxford University Press, New York, NY.	
+- Daw, N.S. (2013) "Advanced Reinforcement Learning" Chapter in Neuroeconomics: Decision making and the brain, 2nd edition
+
+**2/27 Reinforcement learning and decision making (part 2)**
+- Niv, Y. and Schoenbaum, G. (2008) “Dialogues on prediction errors” Trends in Cognitive Science, 12(7), 265-72.
+- Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
+
+**3/27 Model comparison and fitting, tricks of trade**
+- Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
+- Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
+
+**4/3 Rational versus mechanistic modeling approaches**
+- Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
+
+**5/1 Computational cognitive neuroscience**
+- Anderson, J. R., Albert, M. V., & Fincham, J.M. (2005) Tracing Problem Solving in Real Time: fMRI Analysis of the Subject-Paced Tower of Hanoi. Journal of Cognitive Neuroscience, 17 1261-1274.
+- Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
+- Mitchell et al. (2008). Predicting human brain activity associated with the meanings of nouns. Science, 320, 1191-1195.
 
 ## Course policies
 
