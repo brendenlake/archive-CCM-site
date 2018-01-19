@@ -87,8 +87,10 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
 
 **3/27 Model comparison and fitting, tricks of trade**
+- Shiffrin, R. and Nobel, P.A. (1997). The art of model development and testing. Behavior Research Methods, Instruments, & Computers, 29(1), 6-14.
 - Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
 - Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
+- \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
 
 **4/3 Rational versus mechanistic modeling approaches**
 - Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
