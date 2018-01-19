@@ -1,5 +1,3 @@
-# Computational cognitive modeling
-
 **Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
 **Teaching Assistant**: [Alex Rich](http://www.alexrich.org/)
