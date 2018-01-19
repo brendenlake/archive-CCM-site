@@ -16,7 +16,7 @@ Todd Gureckis
 todd.gureckis@nyu.edu (Wednesdays 1-2 pm, or by appointment; 6 Washington Place, Meyer, Room 859)  
 
 Brenden Lake  
-brenden@nyu.edu (Wednesdays 10-11:30 am, or by appointment; 60 5th Ave., Room 610)  
+brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610)  
 
 Alex Rich  
 asr443@nyu.edu (Tuesday 12:30-1:30 pm, or by appointment; 6 Washington Place, Meyer, Room 856)  
@@ -58,7 +58,7 @@ The final grade is based on homeworks (50%), final project (35%), and attendance
 - 5/1 Computational cognitive neuroscience
 
 ## Detailed schedule and readings
-Please see below for the assigned readings for each class. We strongly suggest reading the papers before the assigned class. Papers are available for download on NYU classes.
+Please see below for the assigned readings for each class. We strongly suggest reading the papers before the assigned class. Papers are available for download on NYU Classes in the "Resources" folder.
 
 **1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis**
 - No assigned readings
