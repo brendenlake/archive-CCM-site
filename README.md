@@ -12,9 +12,9 @@ PSYCH-GA 3405.002 (Psychology)
 DS-GA 3001.006 (Data Science)
 
 **Office hours**:  
-Todd Gureckis  
-Brenden Lake (Wednesdays 10-11:30 am, or by appointment; 60 5th Ave., Room 610)  
-Alex Rich  
+Todd Gureckis todd.gureckis@nyu.edu (Wednesdays 1-2 pm, or by appointment; 6 Washington Place, Meyer, Room 859)
+Brenden Lake brenden@nyu.edu (Wednesdays 10-11:30 am, or by appointment; 60 5th Ave., Room 610)  
+Alex Rich  asr443@nyu.edu (Tuesday 12:30-1:30 pm, or by appointment; 6 Washington Place, Meyer, Room 856)
 
 **Key questions**:
 - For cognitive scientists: Can we better understand human learning and thought by developing computational cognitive models?
