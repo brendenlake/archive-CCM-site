@@ -36,6 +36,8 @@ Please note that this syllabus is not final and there may be further adjustments
 ## Grading
 The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
 
+Final project will be done in groups of 2-4 students.  A short paper will be turned in describing the project.  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and replicated an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.  The final projects will need to be approved by the instructor at least 6 weeks before the end of the semester.
+
 ## Schedule
 - 1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis
   - Homework 1 assigned
