@@ -11,6 +11,13 @@ Tuesdays 8:25 PM - 9:25 (lab)
 PSYCH-GA 3405.002 (Psychology)  
 DS-GA 3001.006 (Data Science)
 
+**Contact information and Piazza**:  
+We will be using Piazza for questions and class discussion. The system is catered to getting you help fast and efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Piazza.
+
+Find our class Piazza page at: [https://piazza.com/nyu/spring2018/dsga3001006/home](https://piazza.com/nyu/spring2018/dsga3001006/home)
+
+If there is a need to email the instructors directly, please use the following email address: instructors-ccm-spring2018@nyuccl.org
+
 **Office hours**:  
 Todd Gureckis  
 todd.gureckis@nyu.edu (Wednesdays 1-2 pm, or by appointment; 6 Washington Place, Meyer, Room 859)  
