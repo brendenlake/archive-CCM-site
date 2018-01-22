@@ -123,3 +123,7 @@ We will take off 10% for each day a homework or final project is late.
 
 **Extra credit**:  
 In the interest of fairness no extra credit will be given.
+
+## Preconfigured cloud environment
+
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their github login information [here](http://130.211.189.118/).
