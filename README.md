@@ -18,7 +18,7 @@ The signup link for our Piazza page is available here ([https://piazza.com/nyu/s
 
 Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/dsga3001006/home](https://piazza.com/nyu/spring2018/dsga3001006/home)).
 
-If there is a need to email the instructors directly, please use the following email address: instructors-ccm-spring2018@nyuccl.org
+If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2018@nyuccl.org.
 
 **Office hours**:  
 Todd Gureckis  
