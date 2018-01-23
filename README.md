@@ -14,7 +14,9 @@ DS-GA 3001.006 (Data Science)
 **Contact information and Piazza**:  
 We will be using Piazza for questions and class discussion. The system is catered to getting you help fast and efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Piazza.
 
-Find our class Piazza page at: [https://piazza.com/nyu/spring2018/dsga3001006/home](https://piazza.com/nyu/spring2018/dsga3001006/home)
+The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2018/dsga3001006](https://piazza.com/nyu/spring2018/dsga3001006)).
+
+Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/dsga3001006/home](https://piazza.com/nyu/spring2018/dsga3001006/home)).
 
 If there is a need to email the instructors directly, please use the following email address: instructors-ccm-spring2018@nyuccl.org
 
