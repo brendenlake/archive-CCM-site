@@ -1,0 +1,13 @@
+*.sublime-*
+_*.py
+temp.py
+.ipynb_checkpoints/
+homeworks/homework2-NeuralNet/data
+*.bbl
+*.aux
+*.log
+*.out
+*.gz
+.DS_Store
+lecture_demos
+*.pyc
