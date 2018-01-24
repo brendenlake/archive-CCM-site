@@ -71,7 +71,7 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class. We strongly suggest reading the papers before the assigned class. Papers are available for download on NYU Classes in the "Resources" folder.
 
-**1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis**
+**1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis** ([slides](slides/1-23-CCM-slides.pdf))
 - No assigned readings
 
 **1/30 Classification and category learning**
