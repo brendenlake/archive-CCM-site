@@ -5,7 +5,7 @@
 **Meeting time and location**:  
 Tuesdays 6:45 PM - 8:25 PM (lecture)  
 Tuesdays 8:25 PM - 9:25 (lab)  
-60 5th Avenue, Room C12 (room is on cellar level)
+**NOTE ROOM CHANGE: Tisch Hall, 40 West 4th Street, Room LC9 (in Stern business school, lower concourse)**
 
 **Course numbers**:  
 PSYCH-GA 3405.002 (Psychology)  
