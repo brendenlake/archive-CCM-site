@@ -40,7 +40,7 @@ Please note that this syllabus is not final and there may be further adjustments
 
 ## Pre-requisites
 - Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in the best position for approach the material. We will, when needed, review some of the basic technical concepts in lab.
-- Programming:For the homework/assignments, we will assume some basic familiarity with programming in Python using the Jupyter Notebook system (http://jupyter.org).  We will review some of the programming basics in lab. This is a link to helpful tutorial for learning the basics of Python: http://openbookproject.net/thinkcs/python/english2e/ .
+- Programming:For the homework/assignments, we will assume some basic familiarity with programming in Python using the Jupyter Notebook system (http://jupyter.org). We will review some of the programming basics in lab. This is a link to helpful tutorial for learning the basics of Python (http://openbookproject.net/thinkcs/python/english3e/). We recommend Python 3 for use in this course.
 
 ## Grading
 The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
