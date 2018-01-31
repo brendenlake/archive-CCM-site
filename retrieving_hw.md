@@ -1,11 +1,11 @@
 # Retrieving Homework from Github to Jupyter
 
-Open a terminal in Jupyter
+Open a terminal in Jupyter (Go to "new" in the upper right, then choose "terminal").
 
 
 ## Cloning the repository
 
-For first retreival, clone the repository using
+For first retrieval, clone the repository using
 
 ```
 git clone https://github.com/brendenlake/CCM-site.git
@@ -33,7 +33,7 @@ possible merge conflicts on future pulls), run
 
 ```
 cd ~
-cp -r PATH/TO/HW
+cp -r PATH/TO/HW .
 ```
 
 For example, for homework 1 you would type

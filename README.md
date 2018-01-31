@@ -49,21 +49,21 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 
 ## Schedule
 - 1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis
-  - Homework 1 assigned (Due 2/6)
+  - Homework 1 assigned (Due 2/6) (instructions for accessing [here](retrieving_hw.md))
 - 1/30 Classification and category learning
 - 2/6 Neural networks / Deep learning (part 1)
 - 2/13 Neural networks / Deep learning (part 2)
-  - Homework 2 assigned (Due 2/27)
+  - Homework 2 assigned (Due 2/27) (instructions for accessing [here](retrieving_hw.md))
 - 2/20 Reinforcement learning and decision making (part 1)
 - 2/27 Reinforcement learning and decision making (part 2)
-  - Homework 3 assigned (Due 3/20)
+  - Homework 3 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - 3/6 Bayesian modeling (part 1) 
 - 3/13 NO CLASS. Spring Recess
 - 3/20 Bayesian modeling (part 2) 
-  - Homework 4 assigned (Due 4/3)
+  - Homework 4 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
 - 3/27 Model comparison and fitting, tricks of trade
 - 4/3 Rational versus mechanistic modeling approaches
-  - Homework 5 assigned (Due 4/24)
+  - Homework 5 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
 - 4/17 Probabilistic graphical models
 - 4/24 Program induction and language of thought models
 - 5/1 Computational cognitive neuroscience
