@@ -74,7 +74,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 **1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis** ([slides](slides/1-23-CCM-slides.pdf))
 - No assigned readings
 
-**1/30 Classification and category learning**
+**1/30 Classification and category learning** ([slides](slides/1-30-categorization.pdf))
 - Marr, D. (1982) “Vision” (Chapter 1)
 - Love, B.C., Medin, D.L, & Gureckis, T.M (2004). SUSTAIN: A Network Model of Category Learning. Psychological Review, 111, 309-332.
 - Sanborn, A. N., Griffiths, T. L., & Navarro, D. J. (2010). Rational approximations to rational models: Alternative algorithms for category learning. Psychological Review, 117 (4), 1144-1167.
