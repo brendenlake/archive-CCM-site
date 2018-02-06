@@ -79,7 +79,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Love, B.C., Medin, D.L, & Gureckis, T.M (2004). SUSTAIN: A Network Model of Category Learning. Psychological Review, 111, 309-332.
 - Sanborn, A. N., Griffiths, T. L., & Navarro, D. J. (2010). Rational approximations to rational models: Alternative algorithms for category learning. Psychological Review, 117 (4), 1144-1167.
 
-**2/6 Neural networks / Deep learning (part 1)**
+**2/6 Neural networks / Deep learning (part 1)** ([slides](slides/2-6-neural-networks-1.pdf))
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
 - McClelland, J. L., & Rogers, T. T. (2003). The parallel distributed processing approach to semantic cognition. Nature Reviews Neuroscience, 4(4), 310-322.
 - \[optional\] LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521:436–44.
