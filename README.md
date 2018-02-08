@@ -64,6 +64,7 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 - 3/27 Model comparison and fitting, tricks of trade
 - 4/3 Rational versus mechanistic modeling approaches
   - Homework 5 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
+- 4/10 Overflow/catch up class
 - 4/17 Probabilistic graphical models
 - 4/24 Program induction and language of thought models
 - 5/1 Computational cognitive neuroscience
@@ -106,6 +107,12 @@ Please see below for the assigned readings for each class. We strongly suggest r
 **4/3 Rational versus mechanistic modeling approaches**
 - Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
 - Uttal, W.R. (1990). On some two-way barriers between models and mechanisms. Perception & Psychophysics, 48, 188-203.
+
+**4/17 Probabilistic graphical models**
+TBD
+
+**4/24 Program induction and language of thought models**
+TBD
 
 **5/1 Computational cognitive neuroscience**
 - Anderson, J. R., Albert, M. V., & Fincham, J.M. (2005) Tracing Problem Solving in Real Time: fMRI Analysis of the Subject-Paced Tower of Hanoi. Journal of Cognitive Neuroscience, 17 1261-1274.
