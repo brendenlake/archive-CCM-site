@@ -2,7 +2,6 @@
 _*.py
 temp.py
 .ipynb_checkpoints/
-homeworks/homework2-NeuralNet/data
 *.bbl
 *.aux
 *.log
