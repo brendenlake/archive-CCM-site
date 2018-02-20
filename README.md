@@ -87,7 +87,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 
 **2/13 Neural networks / Deep learning (part 2)** ([slides](slides/2-6-neural-networks-1.pdf))
 
-**2/20 Neural networks / Deep learning (part 3)**
+**2/20 Neural networks / Deep learning (part 3)** ([slides](slides/2-20-neural-networks-2.pdf))
 - Elman, J. L. (1990). Finding structure in time. Cognitive Science, 14(2), 179-211.
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society.
 - \[optional\] Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
