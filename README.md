@@ -53,7 +53,7 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 - 1/30 Classification and category learning
 - 2/6 Neural networks / Deep learning (part 1)
 - 2/13 Neural networks / Deep learning (part 2)
-  - Homework 2 assigned (Due 2/27) (instructions for accessing [here](retrieving_hw.md))
+  - Homework 2 assigned (Due 3/6) (instructions for accessing [here](retrieving_hw.md))
 - 2/20 Neural networks / Deep learning (part 3)
 - 2/27 Reinforcement learning and decision making (part 1)
 - Homework 3 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
