@@ -56,14 +56,14 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
   - Homework 2 assigned (Due 3/6) (instructions for accessing [here](retrieving_hw.md))
 - 2/20 Neural networks / Deep learning (part 3)
 - 2/27 Reinforcement learning and decision making (part 1)
-- Homework 3 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - 3/6 Reinforcement learning and decision making (part 2)
+- Homework 3 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - 3/13 NO CLASS. Spring Recess
-- 3/20 Bayesian modeling (part 1) 
-- 3/27 Bayesian modeling (part 2) 
+- 3/20 Reinforcement learning and decision making (part 3)
+- 3/27 Bayesian modeling (part 1) 
   - Homework 4 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))
-- 4/3 Model comparison and fitting, tricks of trade
-- 4/10 Rational versus mechanistic modeling approaches
+- 4/3 Bayesian modeling (part 2) 
+- 4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches
   - Homework 5 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
 - 4/17 Probabilistic graphical models
 - 4/24 Program induction and language of thought models
@@ -100,21 +100,20 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Niv, Y. and Schoenbaum, G. (2008) “Dialogues on prediction errors” Trends in Cognitive Science, 12(7), 265-72.
 - Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
 
-**3/20 Bayesian modeling (part 1)**
+**3/20 Reinforcement learning and decision making (part 3)**
 TBD
 
-**3/27 Bayesian modeling (part 2)**
+**3/27 Bayesian modeling (part 1)**
 TBD
 
-**4/3 Model comparison and fitting, tricks of trade**
-- Shiffrin, R. and Nobel, P.A. (1997). The art of model development and testing. Behavior Research Methods, Instruments, & Computers, 29(1), 6-14.
+**4/3 Bayesian modeling (part 2)**
+
+
+**4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches**
 - Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
 - Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
-- \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
-
-**4/10 Rational versus mechanistic modeling approaches**
 - Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
-- Uttal, W.R. (1990). On some two-way barriers between models and mechanisms. Perception & Psychophysics, 48, 188-203.
+- \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
 
 **4/17 Probabilistic graphical models**
 TBD
