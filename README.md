@@ -57,15 +57,15 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 - 2/20 Neural networks / Deep learning (part 3)
 - 2/27 Reinforcement learning and decision making (part 1)
 - 3/6 Reinforcement learning and decision making (part 2)
-- Homework 3 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - 3/13 NO CLASS. Spring Recess
 - 3/20 Reinforcement learning and decision making (part 3)
+  - Homework 3 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
 - 3/27 Bayesian modeling (part 1) 
-  - Homework 4 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))
 - 4/3 Bayesian modeling (part 2) 
+  - Homework 4 assigned (Due 4/17) (instructions for accessing [here](retrieving_hw.md))
 - 4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches
-  - Homework 5 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
 - 4/17 Probabilistic graphical models
+  - Homework 5 assigned (Due 5/1) (instructions for accessing [here](retrieving_hw.md))
 - 4/24 Program induction and language of thought models
 - 5/1 Computational cognitive neuroscience
 
