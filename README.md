@@ -100,8 +100,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Niv, Y. and Schoenbaum, G. (2008) “Dialogues on prediction errors” Trends in Cognitive Science, 12(7), 265-72.
 - Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
 
-**3/20 Reinforcement learning and decision making (part 3)**
-TBD
+**3/20 Reinforcement learning and decision making (part 3)** ([slides](slides/lecture7-reinforcementlearning3.pdf))
 
 **3/27 Bayesian modeling (part 1)**
 TBD
