@@ -103,10 +103,12 @@ Please see below for the assigned readings for each class. We strongly suggest r
 **3/20 Reinforcement learning and decision making (part 3)** ([slides](slides/lecture7-reinforcementlearning3.pdf))
 
 **3/27 Bayesian modeling (part 1)**
-TBD
+- Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
+- Tenenbaum, J. B., and Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. Behavioral and Brain Sciences, 24(4), 629-640.
 
 **4/3 Bayesian modeling (part 2)**
-
+- Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. Science, 331(6022), 1279-1285.
+- Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
 
 **4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches**
 - Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
