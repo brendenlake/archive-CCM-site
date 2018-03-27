@@ -102,7 +102,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 
 **3/20 Reinforcement learning and decision making (part 3)** ([slides](slides/lecture7-reinforcementlearning3.pdf))
 
-**3/27 Bayesian modeling (part 1)**
+**3/27 Bayesian modeling (part 1)** ([slides](slides/lecture-bayes1.pdf))
 - Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
 - Tenenbaum, J. B., and Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. Behavioral and Brain Sciences, 24(4), 629-640.
 
