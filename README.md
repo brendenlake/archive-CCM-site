@@ -45,7 +45,9 @@ Please note that this syllabus is not final and there may be further adjustments
 ## Grading
 The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
 
-Final project will be done in groups of 2-4 students.  A short paper will be turned in describing the project.  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and replicated an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.  The final projects will need to be approved by the instructor at least 6 weeks before the end of the semester.
+The final project is due on Tuesday 5/15.
+
+Final project will be done in groups of 2-4 students.  A short paper will be turned in describing the project.  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.  The final projects will need to be approved by the instructor at least 6 weeks before the end of the semester.
 
 ## Schedule
 - 1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis
@@ -59,15 +61,15 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 - 3/6 Reinforcement learning and decision making (part 2)
 - 3/13 NO CLASS. Spring Recess
 - 3/20 Reinforcement learning and decision making (part 3)
-  - Homework 3 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
+  - Homework 3 assigned (Due 4/6) (instructions for accessing [here](retrieving_hw.md))
 - 3/27 Bayesian modeling (part 1) 
 - 4/3 Bayesian modeling (part 2) 
-  - Homework 4 assigned (Due 4/17) (instructions for accessing [here](retrieving_hw.md))
+  - Homework 4 assigned on 4/6 (Due 4/20) (instructions for accessing [here](retrieving_hw.md))
 - 4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches
 - 4/17 Probabilistic graphical models
-  - Homework 5 assigned (Due 5/1) (instructions for accessing [here](retrieving_hw.md))
 - 4/24 Program induction and language of thought models
 - 5/1 Computational cognitive neuroscience
+- Final project due (Tuesday 5/15)
 
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class. We strongly suggest reading the papers before the assigned class. Papers are available for download on NYU Classes in the "Resources" folder.
