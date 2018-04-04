@@ -111,6 +111,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 **4/3 Bayesian modeling (part 2)** (see link above)
 - Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. Science, 331(6022), 1279-1285.
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
+- MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In Information Theory, Inference, and Learning Algorithms.
 
 **4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches**
 - Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
