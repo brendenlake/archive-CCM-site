@@ -113,14 +113,14 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
 - MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In Information Theory, Inference, and Learning Algorithms.
 
-**4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches**
-- Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
-- Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
+**4/10 Rational versus mechanistic modeling approaches** ([slides](slides/lecture10-bounded-rationality.pdf))
 - Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
 - \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
 
-**4/17 Probabilistic graphical models**
-TBD
+**4/17 Model comparison and fitting, tricks of trade/Probabilistic graphical models**
+- Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
+- Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
+
 
 **4/24 Program induction and language of thought models**
 TBD
