@@ -118,18 +118,20 @@ Please see below for the assigned readings for each class. We strongly suggest r
 
 - Griffiths, T.L., Lieder, F., & Goodman, N.D. (2015). Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic. Topics in Cognitive Science, 7(2), 217-229.
 
-**4/17 Model comparison and fitting, tricks of trade/Probabilistic graphical models**
+**4/17 Model comparison and fitting, tricks of trade**
 - Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
 - Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
 - \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
 
-**4/24 Program induction and language of thought models**
-TBD
+**4/24 Probabilistic graphical models**
+- Charniak (1991). Bayesian networks without tears. AI Magazine, 50-63.
+- Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
+- \[optional\]  Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 14, Probabilistic reasoning systems.
 
-**5/1 Computational cognitive neuroscience**
-- Anderson, J. R., Albert, M. V., & Fincham, J.M. (2005) Tracing Problem Solving in Real Time: fMRI Analysis of the Subject-Paced Tower of Hanoi. Journal of Cognitive Neuroscience, 17 1261-1274.
-- Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
-- Mitchell et al. (2008). Predicting human brain activity associated with the meanings of nouns. Science, 320, 1191-1195.
+**5/1 Program induction and language of thought models**
+- Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for Brains, Minds and Machines (CBMM).
+- Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. Science, 350(6266), 1332-1338.
+- \[optional\] Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
 
 ## Course policies
 
