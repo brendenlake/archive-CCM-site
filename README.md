@@ -123,7 +123,7 @@ Please see below for the assigned readings for each class. We strongly suggest r
 - Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
 - \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
 
-**4/24 Probabilistic graphical models**
+**4/24 Probabilistic graphical models**([slides](slides/lecture_graphical_models.pdf))
 - Charniak (1991). Bayesian networks without tears. AI Magazine, 50-63.
 - Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
 - \[optional\]  Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 14, Probabilistic reasoning systems.
