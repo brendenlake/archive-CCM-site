@@ -115,10 +115,9 @@ Please see below for the assigned readings for each class. We strongly suggest r
 
 **4/10 Rational versus mechanistic modeling approaches** ([slides](slides/lecture10-bounded-rationality.pdf))
 - Jones, M. & Love, B.C. (2011). Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition. Behavioral and Brain Sciences (target article).
-
 - Griffiths, T.L., Lieder, F., & Goodman, N.D. (2015). Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic. Topics in Cognitive Science, 7(2), 217-229.
 
-**4/17 Model comparison and fitting, tricks of trade**
+**4/17 Model comparison and fitting, tricks of trade** ([slides](slides/lecture11-modelfit.pdf))
 - Pitt, M.A. and Myung, J (2002) When a good fit can be bad. Trends in Cognitive Science, 6, 10, 421-425.
 - Roberts, S. & Pashler, H. (2000) How persuasive is a good fit? A comment on theory testing. Psychological Review, 107, 358-367.
 - \[optional\] Myung, I.J. (2003). Tutorial on maximum likelihood estimation. Journal of Mathematical Psychology, 47, 90-100.
