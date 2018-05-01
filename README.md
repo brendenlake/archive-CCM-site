@@ -45,9 +45,14 @@ Please note that this syllabus is not final and there may be further adjustments
 ## Grading
 The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
 
+## Final Project
 The final project is due on Tuesday 5/15.
 
-Final project will be done in groups of 2-4 students.  A short paper will be turned in describing the project.  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.  The final projects will need to be approved by the instructor at least 6 weeks before the end of the semester.
+Final project will be done in groups of 2-4 students.  A short paper will be turned in describing the project (approximately 6 pages).  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.  The final projects will need to be approved by the instructor at least 6 weeks before the end of the semester.
+
+Most write-ups should follow the structure of a standard scientific paper. It should include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. 
+A good example would be to follow the structure of this paper form the readings:
+- Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
 
 ## Schedule
 - 1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis
@@ -65,10 +70,10 @@ Final project will be done in groups of 2-4 students.  A short paper will be tur
 - 3/27 Bayesian modeling (part 1) 
 - 4/3 Bayesian modeling (part 2) 
   - Homework 4 assigned on 4/6 (Due 4/20) (instructions for accessing [here](retrieving_hw.md))
-- 4/10 Model comparison and fitting, tricks of trade / Rational versus mechanistic modeling approaches
-- 4/17 Probabilistic graphical models
-- 4/24 Program induction and language of thought models
-- 5/1 Computational cognitive neuroscience
+- 4/10 Rational versus mechanistic modeling approaches
+- 4/17 Model comparison and fitting, tricks of trade
+- 4/24 Probabilistic graphical models
+- 5/1 Program induction and language of thought models
 - Final project due (Tuesday 5/15)
 
 ## Detailed schedule and readings
