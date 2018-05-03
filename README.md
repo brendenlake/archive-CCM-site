@@ -54,6 +54,8 @@ Most write-ups should follow the structure of a standard scientific paper. It sh
 A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
 
+Please submit your final prorject via email to instructors-ccm-spring2018@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf
+
 ## Schedule
 - 1/23 Introduction/Overview - Welcome, Course Policies, General Overview, Levels of analysis
   - Homework 1 assigned (Due 2/6) (instructions for accessing [here](retrieving_hw.md))
