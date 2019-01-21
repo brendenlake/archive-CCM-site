@@ -7,7 +7,7 @@ Lecture
 Mondays 1:45-3:25 PM  
 60 Fifth Ave. Room 110  
 
-Lab 
+Lab  
 Tuesdays 2:40-3:30 PM  
 60 Fifth Ave. Room 110  
 
@@ -22,7 +22,7 @@ We use Piazza for questions and class discussion. Piazza gets you help efficient
 
 Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/dsga3001006/home](https://piazza.com/nyu/spring2018/dsga3001006/home)). -->
 
-If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2019@nyuccl.org.
+If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2019@nyuccl.org
 
 **Office hours**:  
 Todd Gureckis  
@@ -34,12 +34,12 @@ brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 61
 Reuben Feinman  
 reuben.feinman@nyu.edu (TBD; 60 5th Ave., Room 609)  
 
-Anselm Rothe
+Anselm Rothe  
 anselm@nyu.edu (TBD)
 
-**Summary**: This course provides a survey of computational approaches to understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling is the project of understanding behavioral data (and the mind and brain, more generally) by building computational models of the cognitive processes that produce the data. We will cover the goals, philosophy, and technical concepts behind computational cognitive modeling.
+**Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
-Lectures will cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Examples span a broad set of psychological abilities including learning, categorization, language, memory, decision making, and reasoning. Homework assignments include examining and implementing the modeling ideas surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models for understanding behavioral data.
+The lectures cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Modeling examples span a broad set of psychological abilities including learning, categorization, language, memory, decision making, and reasoning. The homework assignments include examining and implementing the models surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models to understand behavioral data.
 
 Please note that this syllabus is not final and there may be further adjustments.
 
@@ -51,17 +51,16 @@ Please note that this syllabus is not final and there may be further adjustments
 The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
 
 ## Final Project
-The final project is due Tuesday, May 14.
+The final project proposal is due on Monday, April 1 (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+
+The final project is due on Tuesday, May 14. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
 The final project will be done in groups of 1-4 students.  A short paper will be turned in describing the project (approximately 6 pages).  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.
 
-Write-ups should be structured as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion.
-A good example would be to follow the structure of this paper from the class readings:
+Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
 
-<!-- Please submit your final prorject via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf -->
-
-## Lecture Schedule
+## Lecture schedule
 Mondays 1:45-3:25 PM  
 60 Fifth Ave. Room 110  
 - 1/28 Introduction  
@@ -76,7 +75,8 @@ Mondays 1:45-3:25 PM
 - 3/18 SPRING RECESS - NO CLASS
 - 3/25 Bayesian modeling (part 1)  
   - Homework 3 assigned (Due 4/8) (instructions for accessing [here](retrieving_hw.md))  
-- 4/1 Bayesian modeling (part 2)  
+- 4/1 Bayesian modeling (part 2)
+  - Final project proposal due
 - 4/8 Rational vs. mechanistic modeling  
   - Homework 4 assigned (Due 4/22) (instructions for accessing [here](retrieving_hw.md))  
 - 4/15 Model comparison and fitting, tricks of the trade  
@@ -86,7 +86,7 @@ Mondays 1:45-3:25 PM
 - 5/13 TBD  
 - Final project due (Tuesday 5/14)  
 
-## Labs Schedule  
+## Lab schedule  
 Tuesdays 2:40-3:30 PM  
 60 Fifth Ave. Room 110  
 - 1/29 NO LAB
