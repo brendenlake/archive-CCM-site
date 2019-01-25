@@ -26,7 +26,7 @@ If there is a need to email the teaching staff directly, please use the followin
 
 **Office hours**:  
 Todd Gureckis  
-todd.gureckis@nyu.edu (TBD; 6 Washington Place, Meyer, Room 859)  
+todd.gureckis@nyu.edu (Thursdays 2-4pm; 6 Washington Place, Meyer, Room 859)  
 
 Brenden Lake  
 brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610)  

@@ -1,3 +1,12 @@
+# Obtaining the Homework
+
+If you are using the university provided Jupyter instance rather than your own personal
+computer the homeworks will automatically download into a folder in your account
+called `materials-spring-19` each time you login to the instance.
+
+If you are running your own Jupyter instance use the following instructions to download
+the homeworks.
+
 # Retrieving Homework from Github to Jupyter
 
 Open a terminal in Jupyter (Go to "new" in the upper right, then choose "terminal").
