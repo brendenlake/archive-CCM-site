@@ -2,7 +2,7 @@
 
 If you are using the university provided Jupyter instance rather than your own personal
 computer the homeworks will automatically download into a folder in your account
-called `materials-spring-19` each time you login to the instance.
+called `course-materials` each time you login to the instance.
 
 If you are running your own Jupyter instance use the following instructions to download
 the homeworks.
