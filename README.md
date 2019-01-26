@@ -32,7 +32,7 @@ Brenden Lake
 brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610)  
 
 Reuben Feinman  
-reuben.feinman@nyu.edu (Wednesdays 1-2pm; 60 5th Ave., Room 609)  
+reuben.feinman@nyu.edu (Wednesdays 3-4pm; 60 5th Ave., Room 609)  
 
 Anselm Rothe  
 anselm@nyu.edu (TBD)
