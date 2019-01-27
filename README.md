@@ -90,17 +90,17 @@ Mondays 1:45-3:25 PM
 Tuesdays 2:40-3:30 PM  
 60 Fifth Ave. Room 110  
 - 1/29 NO LAB
-- 2/5 Python notebooks
-- 2/12 Pytorch
-- 2/19 NO LAB
+- 2/5 Python and Jupyter notebooks review
+- 2/12 Introduction to PyTorch
+- 2/19 HW 1 Questions
 - 2/26 TBD
 - 3/5 TBD
-- 3/12 HW 2 help
+- 3/12 HW 2 Questions
 - 3/19 SPRING RECESS
 - 3/26 Probability review
-- 4/2 HW 3 help
+- 4/2 HW 3 Questions
 - 4/9 TBD
-- 4/16 HW 4 help
+- 4/16 HW 4 Questions
 - 4/23 TBD
 - 4/30 TBD
 - 5/7 TBD
