@@ -18,21 +18,21 @@ PSYCH-GA 3405.002 (Psychology)
 **Contact information and Piazza**:  
 We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
 
-<!-- The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2018/dsga3001006](https://piazza.com/nyu/spring2018/dsga3001006)).
+The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005](https://piazza.com/nyu/spring2019/dsga3001005)).
 
-Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/dsga3001006/home](https://piazza.com/nyu/spring2018/dsga3001006/home)). -->
+Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005/home](https://piazza.com/nyu/spring2019/dsga3001005/home)).
 
 If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2019@nyuccl.org
 
 **Office hours**:  
 Todd Gureckis  
-todd.gureckis@nyu.edu (TBD; 6 Washington Place, Meyer, Room 859)  
+todd.gureckis@nyu.edu (Thursdays 2-4pm; 6 Washington Place, Meyer, Room 859)  
 
 Brenden Lake  
 brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610)  
 
 Reuben Feinman  
-reuben.feinman@nyu.edu (TBD; 60 5th Ave., Room 609)  
+reuben.feinman@nyu.edu (Wednesdays 3-4pm; 60 5th Ave., Room 609)  
 
 Anselm Rothe  
 anselm@nyu.edu (TBD)
@@ -44,7 +44,7 @@ The lectures cover artificial neural networks (deep learning), reinforcement lea
 Please note that this syllabus is not final and there may be further adjustments.
 
 ## Pre-requisites
-- Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. We will, when needed, review some of the basic technical concepts in lab.
+- Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will, when needed, review some of the basic technical concepts in lab.
 - Programming: For the homework/assignments, we will assume basic familiarity with programming in Python using the Jupyter Notebook system (http://jupyter.org). We will review some of the programming basics in lab. This is a link to helpful tutorial for learning the basics of Python (http://openbookproject.net/thinkcs/python/english3e/). We recommend Python 3 for use in this course.
 
 ## Grading
@@ -55,7 +55,7 @@ The final project proposal is due on Monday, April 1 (one half page written). Pl
 
 The final project is due on Tuesday, May 14. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
-The final project will be done in groups of 1-4 students.  A short paper will be turned in describing the project (approximately 6 pages).  The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics.
+The final project will be done in groups of 1-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.
 
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
@@ -90,17 +90,17 @@ Mondays 1:45-3:25 PM
 Tuesdays 2:40-3:30 PM  
 60 Fifth Ave. Room 110  
 - 1/29 NO LAB
-- 2/5 Python notebooks
-- 2/12 Pytorch
-- 2/19 NO LAB
+- 2/5 Python and Jupyter notebooks review
+- 2/12 Introduction to PyTorch
+- 2/19 HW 1 Questions
 - 2/26 TBD
 - 3/5 TBD
-- 3/12 HW 2 help
+- 3/12 HW 2 Questions
 - 3/19 SPRING RECESS
 - 3/26 Probability review
-- 4/2 HW 3 help
+- 4/2 HW 3 Questions
 - 4/9 TBD
-- 4/16 HW 4 help
+- 4/16 HW 4 Questions
 - 4/23 TBD
 - 4/30 TBD
 - 5/7 TBD
@@ -162,6 +162,9 @@ We will take off 10% for each day a homework or final project is late.
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
+
+**Laptops in class**:  
+Laptops in class are discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). This can also distract everyone behind you! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy things down, and paper notes are great too.
 
 ## Preconfigured cloud environment
 Details coming soon.
