@@ -163,7 +163,7 @@ We will take off 10% for each day a homework or final project is late.
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
 
-**Laptops in class**:
+**Laptops in class**:  
 Laptops in class are discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). This can also distract everyone behind you! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy things down, and paper notes are great too.
 
 ## Preconfigured cloud environment
