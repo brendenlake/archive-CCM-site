@@ -44,7 +44,7 @@ The lectures cover artificial neural networks (deep learning), reinforcement lea
 Please note that this syllabus is not final and there may be further adjustments.
 
 ## Pre-requisites
-- Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. We will, when needed, review some of the basic technical concepts in lab.
+- Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will, when needed, review some of the basic technical concepts in lab.
 - Programming: For the homework/assignments, we will assume basic familiarity with programming in Python using the Jupyter Notebook system (http://jupyter.org). We will review some of the programming basics in lab. This is a link to helpful tutorial for learning the basics of Python (http://openbookproject.net/thinkcs/python/english3e/). We recommend Python 3 for use in this course.
 
 ## Grading
