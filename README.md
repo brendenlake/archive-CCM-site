@@ -35,7 +35,7 @@ Reuben Feinman
 reuben.feinman@nyu.edu (Wednesdays 3-4pm; 60 5th Ave., Room 609)  
 
 Anselm Rothe  
-anselm@nyu.edu (TBD)
+anselm@nyu.edu (Fridays 2:30-3:30pm; 6 Washington Place, Meyer, Room 865)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
