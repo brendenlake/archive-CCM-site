@@ -167,5 +167,4 @@ No extra credit will be given, out of interest of fairness.
 Laptops in class are discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). This can also distract everyone behind you! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy things down, and paper notes are great too.
 
 ## Preconfigured cloud environment
-Details coming soon.
-<!-- Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their github login information [here](http://130.211.189.118/). -->
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their github login information [here](http://ccm-spring19.braincompute.io).
