@@ -1,8 +1,8 @@
 # Obtaining the Homework
 
-If you are using the university provided Jupyter instance rather than your own personal
-computer the homeworks will automatically download into a folder in your account
-called `course-materials` each time you login to the instance.
+If you are using the university provided Jupyter instance ([here](http://ccm-spring19.braincompute.io)) 
+rather than your own personal computer the homeworks will automatically download into a folder in your account
+called `course-materials` each time you login.
 
 If you are running your own Jupyter instance use the following instructions to download
 the homeworks.
