@@ -63,8 +63,8 @@ Write-ups should be organized and written as a scientific paper. It must include
 ## Lecture schedule
 Mondays 1:45-3:25 PM  
 60 Fifth Ave. Room 110  
-- 1/28 Introduction  ( [slides](slides/lecture-01-introduction.pdf) )
-- 2/4 Neural networks / Deep learning (part 1)  ( [slides](slides/lecture-02-neural_nets.pdf) )
+- 1/28 Introduction  ( [slides](lecture_slides/lecture-01-introduction.pdf) )
+- 2/4 Neural networks / Deep learning (part 1)  ( [slides](lecture_slides/lecture-02-neural_nets.pdf) )
   - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))  
 - 2/11 Neural networks / Deep learning (part 2)  
 - 2/18 PRESIDENT'S DAY - NO CLASS
