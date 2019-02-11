@@ -66,7 +66,7 @@ Mondays 1:45-3:25 PM
 - 1/28 Introduction  ( [slides](lecture_slides/lecture-01-introduction.pdf) )
 - 2/4 Neural networks / Deep learning (part 1)  ( [slides](lecture_slides/lecture-02-neural_nets.pdf) )
   - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))  
-- 2/11 Neural networks / Deep learning (part 2)  
+- 2/11 Neural networks / Deep learning (part 2)  ( [slides](lecture_slides/lecture-03-neural_nets.pdf) )
 - 2/18 PRESIDENT'S DAY - NO CLASS
 - 2/25 Reinforcement learning (part 1)  
   - Homework 2 assigned (Due 3/25) (instructions for accessing [here](retrieving_hw.md))  
