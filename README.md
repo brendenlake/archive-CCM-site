@@ -71,7 +71,7 @@ Mondays 1:45-3:25 PM
 - 2/18 PRESIDENT'S DAY - NO CLASS
 - 2/25 Reinforcement learning (part 1)  
 - 3/4 Reinforcement learning (part 2)    
-- Homework 2 assigned (Due 3/25) (instructions for accessing [here](retrieving_hw.md))  
+  - Homework 2 assigned (Due 3/25) (instructions for accessing [here](retrieving_hw.md))  
 - 3/11 Reinforcement learning (part 3)  
 - 3/18 SPRING RECESS - NO CLASS
 - 3/25 Bayesian modeling (part 1)  
