@@ -90,22 +90,22 @@ Mondays 1:45-3:25 PM
 ## Lab schedule  
 Tuesdays 2:40-3:30 PM  
 60 Fifth Ave. Room 110  
-- 1/29 NO LAB
+- 1/29 No lab
 - 2/5 Python and Jupyter notebooks review
 - 2/12 Introduction to PyTorch
-- 2/19 HW 1 Questions
-- 2/26 TBD
+- 2/19 HW 1 Review
+- 2/26 No lab
 - 3/5 TBD
-- 3/12 HW 2 Questions
+- 3/12 HW 2 Review
 - 3/19 SPRING RECESS
 - 3/26 Probability review
-- 4/2 HW 3 Questions
+- 4/2 HW 3 Review
 - 4/9 TBD
-- 4/16 HW 4 Questions
+- 4/16 HW 4 Review
 - 4/23 TBD
 - 4/30 TBD
 - 5/7 TBD
-- 5/14 NO LAB
+- 5/14 No lab
 
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
