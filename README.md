@@ -70,8 +70,9 @@ Mondays 1:45-3:25 PM
 - 2/11 Neural networks / Deep learning (part 2)  ( [slides](lecture_slides/lecture-03-neural_nets.pdf) )
 - 2/18 PRESIDENT'S DAY - NO CLASS
 - 2/25 Reinforcement learning (part 1)  ( [slides](lecture_slides/lecture-04-reinforcementlearning.pdf) )
-- 3/4 Reinforcement learning (part 2)    
-  - Homework 2 assigned (Due 3/25) (instructions for accessing [here](retrieving_hw.md))  
+- 3/4 (class canceled due to snow day)
+- 3/5 Reinforcement learning (part 2) ( [slides](lecture_slides/lecture-05-reinforcementlearning.pdf) )
+  - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))  
 - 3/11 Reinforcement learning (part 3)  
 - 3/18 SPRING RECESS - NO CLASS
 - 3/25 Bayesian modeling (part 1)  
@@ -95,7 +96,7 @@ Tuesdays 2:40-3:30 PM
 - 2/12 Introduction to PyTorch
 - 2/19 HW 1 Review
 - 2/26 No lab
-- 3/5 TBD
+- 3/5 Make up missed lecture 5 from Mar 4 due to snow
 - 3/12 HW 2 Review
 - 3/19 SPRING RECESS
 - 3/26 Probability review
