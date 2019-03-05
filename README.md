@@ -4,7 +4,7 @@
 
 **Meeting time and location**:  
 Lecture  
-Mondays 1:45-3:25 PM  
+Mondays 1:50-3:30 PM  
 **\*ROOM CHANGE\***: Silver Center for Arts & Science, 100 Washington Sq East, Room 520  
 
 Lab  
