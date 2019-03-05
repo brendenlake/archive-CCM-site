@@ -96,7 +96,7 @@ Tuesdays 2:40-3:30 PM
 - 2/12 Introduction to PyTorch
 - 2/19 HW 1 Review
 - 2/26 No lab
-- 3/5 Make up missed lecture 5 from Mar 4 due to snow
+- (3/5 Make up missed lecture 5 from Mar 4 due to snow, see above)
 - 3/12 HW 2 Review
 - 3/19 SPRING RECESS
 - 3/26 Probability review
