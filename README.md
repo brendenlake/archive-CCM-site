@@ -73,7 +73,7 @@ Mondays 1:45-3:25 PM
 - 3/4 (class canceled due to snow day)
 - 3/5 Reinforcement learning (part 2) ( [slides](lecture_slides/lecture-05-reinforcementlearning.pdf) )
   - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))  
-- 3/11 Reinforcement learning (part 3)  
+- 3/11 Reinforcement learning (part 3)  ( [slides](lecture_slides/lecture-06-reinforcementlearning.pdf) )
 - 3/18 SPRING RECESS - NO CLASS
 - 3/25 Bayesian modeling (part 1)  
   - Homework 3 assigned (Due 4/8) (instructions for accessing [here](retrieving_hw.md))  
