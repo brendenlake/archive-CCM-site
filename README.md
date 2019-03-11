@@ -62,7 +62,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
 
 ## Lecture schedule
-Mondays 1:45-3:25 PM  
+Mondays 1:50-3:25 PM  
 60 Fifth Ave. Room 110  
 - 1/28 Introduction  ( [slides](lecture_slides/lecture-01-introduction.pdf) )
 - 2/4 Neural networks / Deep learning (part 1)  ( [slides](lecture_slides/lecture-02-neural_nets.pdf) )
