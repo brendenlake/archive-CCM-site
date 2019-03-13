@@ -96,11 +96,10 @@ class SARSAlearner(Learner):
         """
         # Update Q(s,a)
         if s_ is not None:
-            # TODO: write the update
-            self.Q[a][s] += 0
+            self.Q[a][s] += self.alpha*(r + self.gamma*self.Q[a_][s_] - self.Q[a][s])
         else:
-            # TODO: write the update
-            self.Q[a][s] += 0
+            # terminal state update
+            self.Q[a][s] += self.alpha*(r - self.Q[a][s])
 
 
 class Qlearner(Learner):
@@ -129,8 +128,11 @@ class Qlearner(Learner):
         """
         # Update Q(s,a)
         if s_ is not None:
-            # TODO: write the update
-            self.Q[a][s] += 0
+            # hold list of Q values for all a_,s_ pairs. We will access the max later
+            possible_actions = [action for action in self.actions if s_[action[0]*3 + action[1]] == '-']
+            Q_options = [self.Q[action][s_] for action in possible_actions]
+            # update
+            self.Q[a][s] += self.alpha*(r + self.gamma*max(Q_options) - self.Q[a][s])
         else:
-            # TODO: write the update
-            self.Q[a][s] += 0
+            # terminal state update
+            self.Q[a][s] += self.alpha*(r - self.Q[a][s])
