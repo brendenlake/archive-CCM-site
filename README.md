@@ -76,7 +76,7 @@ Mondays 1:50-3:25 PM
 - 3/11 Reinforcement learning (part 3)  ( [slides](lecture_slides/lecture-06-reinforcementlearning.pdf) )
 - 3/18 SPRING RECESS - NO CLASS
 - 3/25 Bayesian modeling (part 1)  ( [slides](lecture_slides/lecture-07-bayesian_modeling.pdf) )
-  - Homework 3 assigned (Due 4/8) (instructions for accessing [here](retrieving_hw.md))  
+  - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))  
 - 4/1 Bayesian modeling (part 2) ) (see above)
   - Final project proposal due
 - 4/8 Rational vs. mechanistic modeling  
