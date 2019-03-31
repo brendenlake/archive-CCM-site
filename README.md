@@ -77,7 +77,7 @@ Mondays 1:50-3:25 PM
 - 3/18 SPRING RECESS - NO CLASS
 - 3/25 Bayesian modeling (part 1)  ( [slides](lecture_slides/lecture-07-bayesian_modeling.pdf) )
   - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))  
-- 4/1 Bayesian modeling (part 2) ) (see above)
+- 4/1 Bayesian modeling (part 2) ) (see above part 1 for combined slides)
   - Final project proposal due
 - 4/8 Rational vs. mechanistic modeling  
   - Homework 4 assigned (Due 4/22) (instructions for accessing [here](retrieving_hw.md))  
