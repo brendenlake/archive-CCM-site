@@ -79,7 +79,7 @@ Mondays 1:50-3:25 PM
   - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))  
 - 4/1 Bayesian modeling (part 2) ) (see above part 1 for combined slides)
   - Final project proposal due
-- 4/8 Rational vs. mechanistic modeling  
+- 4/8 Rational vs. mechanistic modeling  ( [slides](lecture_slides/lecture-09-rational_vs_mechanistic.pdf) )
   - Homework 4 assigned (Due 4/22) (instructions for accessing [here](retrieving_hw.md))  
 - 4/15 Model comparison and fitting, tricks of the trade  
 - 4/22 Categorization  
