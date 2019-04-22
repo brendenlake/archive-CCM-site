@@ -81,7 +81,7 @@ Mondays 1:50-3:25 PM
   - Final project proposal due
 - 4/8 Rational vs. mechanistic modeling  ( [slides](lecture_slides/lecture-09-rational_vs_mechanistic.pdf) )
 - 4/15 Model comparison and fitting, tricks of the trade  ( [slides](lecture_slides/lecture-10-modelfit.pdf) )
-- 4/22 Categorization  
+- 4/22 Categorization  ( [slides](lecture_slides/lecture-11-categorization.pdf) )
   - Homework 4 assigned (Due TBD) (instructions for accessing [here](retrieving_hw.md))  
 - 4/29 Probabilistic Graphical models  
 - 5/6 Program induction and language of thought models  
