@@ -102,9 +102,9 @@ Tuesdays 2:40-3:30 PM
 - 3/26 HW 2 Review (again)
 - 4/2 Probability review
 - 4/9 HW 3 Review
-- 4/16 TBD
-- 4/23 HW 4 Review
-- 4/30 TBD
+- 4/16 No lab
+- 4/23 No lab
+- 4/30 HW 4 Review
 - 5/7 TBD
 - 5/14 No lab
 
