@@ -84,7 +84,7 @@ Mondays 1:50-3:25 PM
 - 4/22 Categorization  ( [slides](lecture_slides/lecture-11-categorization.pdf) )
   - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))  
 - 4/29 Probabilistic Graphical models ([slides](lecture_slides/lecture-12-graphical_models.pdf))  
-- 5/6 Program induction and language of thought models  
+- 5/6 Program induction and language of thought models ([slides](lecture_slides/lecture-13-program_induction.pdf))  
 - 5/13 Computational Cognitive Neuroscience
 - Final project due (Tuesday 5/14)  
 
