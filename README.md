@@ -80,9 +80,9 @@ Mondays 1:35-3:15 PM
 - Computational Cognitive Neuroscience <!-- - Final project due (Tuesday 5/14)   -->
 
 ## Lab schedule TBD 
-Tuesdays 2:40-3:30 PM  
-<!-- 60 Fifth Ave. Room 110   -->
-<!-- 1/29 No lab
+Tuesdays 2:40-3:30 PM
+<!--
+1/29 No lab
 - 2/5 Python and Jupyter notebooks review
 - 2/12 Introduction to PyTorch
 - 2/19 HW 1 Review
@@ -98,7 +98,9 @@ Tuesdays 2:40-3:30 PM
 - 4/30 HW 4 Review
 - 5/7 TBD
 - 5/14 No lab
- -->
+
+-->
+
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
 
