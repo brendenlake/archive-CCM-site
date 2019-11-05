@@ -1,15 +1,15 @@
 **Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
-**Teaching Assistants**: [Reuben Feinman](http://www.cns.nyu.edu/~reuben/) and [Anselm Rothe](https://anselmrothe.github.io/)
+<!-- **Teaching Assistants**: [Reuben Feinman](http://www.cns.nyu.edu/~reuben/) and [Anselm Rothe](https://anselmrothe.github.io/) -->
 
 **Meeting time and location**:  
 Lecture  
-Mondays 1:50-3:30 PM  
-**\*ROOM CHANGE\***: Silver Center for Arts & Science, 100 Washington Sq East, Room 520  
+Mondays 1:35-3:15 PM  
+<!-- Silver Center for Arts & Science, 100 Washington Sq East, Room 520   -->
 
 Lab  
 Tuesdays 2:40-3:30 PM  
-60 Fifth Ave. Room 110  
+<!-- 60 Fifth Ave. Room 110   -->
 
 **Course numbers**:  
 DS-GA 3001.005 (Data Science)  
@@ -18,25 +18,20 @@ PSYCH-GA 3405.002 (Psychology)
 **Contact information and Piazza**:  
 We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
 
-The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005](https://piazza.com/nyu/spring2019/dsga3001005)).
+<!-- The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005](https://piazza.com/nyu/spring2019/dsga3001005)). -->
 
-Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005/home](https://piazza.com/nyu/spring2019/dsga3001005/home)).
+<!-- Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005/home](https://piazza.com/nyu/spring2019/dsga3001005/home)). -->
 
-If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2019@nyuccl.org
+<!-- If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2019@nyuccl.org -->
 
-**Office hours**:  
+<!-- **Office hours**:  
 Todd Gureckis  
-todd.gureckis@nyu.edu (Thursdays 2-4pm; 6 Washington Place, Meyer, Room 859)  
+todd.gureckis@nyu.edu 
+(Thursdays 2-4pm; 6 Washington Place, Meyer, Room 859)  
 
 Brenden Lake  
 brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610)  
-
-Reuben Feinman  
-reuben.feinman@nyu.edu (Wednesdays 3-4pm; 60 5th Ave., Room 609)  
-
-Anselm Rothe  
-anselm@nyu.edu (Fridays 2:30-3:30pm; 6 Washington Place, Meyer, Room 852)
-(Exception: In the week of Feb 21, Anselm's office hour is on Thursday, Feb 21, 2:30-3:30pm in Room 856.)
+ -->
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -45,53 +40,55 @@ The lectures cover artificial neural networks (deep learning), reinforcement lea
 Please note that this syllabus is not final and there may be further adjustments.
 
 ## Pre-requisites
-- Math: If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will, when needed, review some of the basic technical concepts in lab.
-- Programming: For the homework/assignments, we will assume basic familiarity with programming in Python using the Jupyter Notebook system (http://jupyter.org). We will review some of the programming basics in lab. This is a link to helpful tutorial for learning the basics of Python (http://openbookproject.net/thinkcs/python/english3e/). We recommend Python 3 for use in this course.
+- Math: We will use concepts from linear algebra, calculus, and probability. If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will review some of the basic technical concepts in lab.
+
+- Programming: Previous experience with Python is required. The assignments will use Python 3 and Jupyter Notebooks (http://jupyter.org). We will have a Python refresher in lab, and we also recommend this tutorial (http://openbookproject.net/thinkcs/python/english3e/).
 
 ## Grading
-The final grade is based on homeworks (50%), final project (35%), and attendance/participation (15%).
+The final grade is based on the homeworks (60%) and the final project (40%).
+
+Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-The final project proposal is due on Monday, April 1 (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+<!-- The final project proposal is due TBD (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. -->
 
-The final project is due on Tuesday, May 14. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
+<!-- The final project is due TBD. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf. -->
 
-The final project will be done in groups of 1-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  Possible project ideas are listed [here](final_project_ideas.md), but of course you do not have to choose from this list (it is just some examples).
+The final project will be done in groups of 1-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
+Code submission is not required for the final project.
 
 ## Lecture schedule
-Mondays 1:50-3:25 PM  
+Mondays 1:35-3:15 PM
 60 Fifth Ave. Room 110  
-- 1/28 Introduction  ( [slides](lecture_slides/lecture-01-introduction.pdf) )
-- 2/4 Neural networks / Deep learning (part 1)  ( [slides](lecture_slides/lecture-02-neural_nets.pdf) )
-  - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))  
-- 2/11 Neural networks / Deep learning (part 2)  ( [slides](lecture_slides/lecture-03-neural_nets.pdf) )
+- 1/28 Introduction 
+- 2/4 Neural networks / Deep learning (part 1)
+  <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
+- 2/11 Neural networks / Deep learning (part 2)
 - 2/18 PRESIDENT'S DAY - NO CLASS
-- 2/25 Reinforcement learning (part 1)  ( [slides](lecture_slides/lecture-04-reinforcementlearning.pdf) )
-- 3/4 (class canceled due to snow day)
-- 3/5 Reinforcement learning (part 2) ( [slides](lecture_slides/lecture-05-reinforcementlearning.pdf) )
-  - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))  
-- 3/11 Reinforcement learning (part 3)  ( [slides](lecture_slides/lecture-06-reinforcementlearning.pdf) )
+- 2/25 Reinforcement learning (part 1)
+- 3/5 Reinforcement learning (part 2)
+  <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
+- 3/11 Reinforcement learning (part 3) 
 - 3/18 SPRING RECESS - NO CLASS
-- 3/25 Bayesian modeling (part 1)  ( [slides](lecture_slides/lecture-07-bayesian_modeling.pdf) )
-  - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))  
-- 4/1 Bayesian modeling (part 2) ) (see above part 1 for combined slides)
-  - Final project proposal due
-- 4/8 Rational vs. mechanistic modeling  ( [slides](lecture_slides/lecture-09-rational_vs_mechanistic.pdf) )
-- 4/15 Model comparison and fitting, tricks of the trade  ( [slides](lecture_slides/lecture-10-modelfit.pdf) )
-- 4/22 Categorization  ( [slides](lecture_slides/lecture-11-categorization.pdf) )
-  - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))  
-- 4/29 Probabilistic Graphical models ([slides](lecture_slides/lecture-12-graphical_models.pdf))  
-- 5/6 Program induction and language of thought models ([slides](lecture_slides/lecture-13-program_induction.pdf))  
+- 3/25 Bayesian modeling (part 1) 
+  <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
+- 4/1 Bayesian modeling (part 2) ) 
+- 4/8 Rational vs. mechanistic modeling 
+- 4/15 Model comparison and fitting, tricks of the trade
+- 4/22 Categorization
+  <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
+- 4/29 Probabilistic Graphical models
+- 5/6 Program induction and language of thought models
 - 5/13 Computational Cognitive Neuroscience
-- Final project due (Tuesday 5/14)  
+<!-- - Final project due (Tuesday 5/14)   -->
 
-## Lab schedule  
+## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM  
-60 Fifth Ave. Room 110  
-- 1/29 No lab
+<!-- 60 Fifth Ave. Room 110   -->
+<!-- - 1/29 No lab
 - 2/5 Python and Jupyter notebooks review
 - 2/12 Introduction to PyTorch
 - 2/19 HW 1 Review
@@ -107,7 +104,7 @@ Tuesdays 2:40-3:30 PM
 - 4/30 HW 4 Review
 - 5/7 TBD
 - 5/14 No lab
-
+ -->
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
 
@@ -156,18 +153,20 @@ Brains, Minds and Machines (CBMM).
 **Auditing**:  
 Please email instructor to see if there are available seats. Priority goes to registered students and then by date of audit request.
 
-**Collaboration and honor code**:  
-We encourage you to discuss the homework assignments with your classmates. **You must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other's write ups or code, or write-ups or code from previous years.
+**Collaboration and honor code**:
+We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral.
+
+You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other's code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates.
 
 **Late work**:  
-We will take off 10% for each day a homework or final project is late.
+We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
 
 **Laptops in class**:  
-Laptops in class are discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). This can also distract everyone behind you! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy things down, and paper notes are great too.
+Laptops in class are strongly discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). It also distracts everyone behind you if you are not engaged! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy things down, and paper notes are great too.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their github login information [here](http://ccm-spring19.braincompute.io) assuming they have contacted the TAs and provided their
-username.
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. 
+<!-- Students can log onto the environment using their github login information [here](http://ccm-spring19.braincompute.io) assuming they have contacted the TAs and provided their username. -->
