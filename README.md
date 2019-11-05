@@ -81,25 +81,6 @@ Mondays 1:35-3:15 PM
 
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM
-<!--
-1/29 No lab
-- 2/5 Python and Jupyter notebooks review
-- 2/12 Introduction to PyTorch
-- 2/19 HW 1 Review
-- 2/26 No lab
-- (3/5 Make up missed lecture 5 from Mar 4 due to snow, see above)
-- 3/12 HW 2 Review
-- 3/19 SPRING RECESS
-- 3/26 HW 2 Review (again)
-- 4/2 Probability review
-- 4/9 HW 3 Review
-- 4/16 No lab
-- 4/23 No lab
-- 4/30 HW 4 Review
-- 5/7 TBD
-- 5/14 No lab
-
--->
 
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
