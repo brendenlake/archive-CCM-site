@@ -1,4 +1,4 @@
-l**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
+**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
 <!-- **Teaching Assistants**: [Reuben Feinman](http://www.cns.nyu.edu/~reuben/) and [Anselm Rothe](https://anselmrothe.github.io/) -->
 
