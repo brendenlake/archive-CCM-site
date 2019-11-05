@@ -62,27 +62,27 @@ Code submission is not required for the final project.
 
 ## Lecture schedule
 Mondays 1:35-3:15 PM
-60 Fifth Ave. Room 110  
-- 1/28 Introduction 
-- 2/4 Neural networks / Deep learning (part 1)
+<!-- 60 Fifth Ave. Room 110   -->
+- Introduction 
+- Neural networks / Deep learning (part 1)
   <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
-- 2/11 Neural networks / Deep learning (part 2)
-- 2/18 PRESIDENT'S DAY - NO CLASS
-- 2/25 Reinforcement learning (part 1)
-- 3/5 Reinforcement learning (part 2)
+- Neural networks / Deep learning (part 2)
+<!-- - PRESIDENT'S DAY - NO CLASS -->
+- Reinforcement learning (part 1)
+- Reinforcement learning (part 2)
   <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
-- 3/11 Reinforcement learning (part 3) 
-- 3/18 SPRING RECESS - NO CLASS
-- 3/25 Bayesian modeling (part 1) 
+- Reinforcement learning (part 3) 
+<!-- - SPRING RECESS - NO CLASS -->
+- Bayesian modeling (part 1) 
   <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
-- 4/1 Bayesian modeling (part 2) ) 
-- 4/8 Rational vs. mechanistic modeling 
-- 4/15 Model comparison and fitting, tricks of the trade
-- 4/22 Categorization
+- Bayesian modeling (part 2)
+- Rational vs. mechanistic modeling 
+- Model comparison and fitting, tricks of the trade
+- Categorization
   <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
-- 4/29 Probabilistic Graphical models
-- 5/6 Program induction and language of thought models
-- 5/13 Computational Cognitive Neuroscience
+- Probabilistic Graphical models
+- Program induction and language of thought models
+- Computational Cognitive Neuroscience
 <!-- - Final project due (Tuesday 5/14)   -->
 
 ## Lab schedule TBD 
@@ -153,7 +153,7 @@ Brains, Minds and Machines (CBMM).
 **Auditing**:  
 Please email instructor to see if there are available seats. Priority goes to registered students and then by date of audit request.
 
-**Collaboration and honor code**:
+**Collaboration and honor code**:  
 We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral.
 
 You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other's code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates.
@@ -165,7 +165,7 @@ We will take off 10% for each day a homework or final project is late. Assignmen
 No extra credit will be given, out of interest of fairness.
 
 **Laptops in class**:  
-Laptops in class are strongly discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). It also distracts everyone behind you if you are not engaged! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy things down, and paper notes are great too.
+Laptops in class are strongly discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). It also distracts everyone behind you if you are not engaged! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy everything down, and paper notes are great too.
 
 ## Preconfigured cloud environment
 Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. 
