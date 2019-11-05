@@ -1,4 +1,4 @@
-**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
+l**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
 <!-- **Teaching Assistants**: [Reuben Feinman](http://www.cns.nyu.edu/~reuben/) and [Anselm Rothe](https://anselmrothe.github.io/) -->
 
@@ -58,32 +58,26 @@ The final project will be done in groups of 1-4 students. A short paper will be 
 
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
+
 Code submission is not required for the final project.
 
 ## Lecture schedule
 Mondays 1:35-3:15 PM
 <!-- 60 Fifth Ave. Room 110   -->
 - Introduction 
-- Neural networks / Deep learning (part 1)
-  <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
-- Neural networks / Deep learning (part 2)
-<!-- - PRESIDENT'S DAY - NO CLASS -->
+- Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
+- Neural networks / Deep learning (part 2) <!-- - PRESIDENT'S DAY - NO CLASS -->
 - Reinforcement learning (part 1)
-- Reinforcement learning (part 2)
-  <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
-- Reinforcement learning (part 3) 
-<!-- - SPRING RECESS - NO CLASS -->
-- Bayesian modeling (part 1) 
-  <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
+- Reinforcement learning (part 2) <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
+- Reinforcement learning (part 3)  <!-- - SPRING RECESS - NO CLASS -->
+- Bayesian modeling (part 1)  <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
 - Bayesian modeling (part 2)
 - Rational vs. mechanistic modeling 
 - Model comparison and fitting, tricks of the trade
-- Categorization
-  <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
+- Categorization <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
 - Probabilistic Graphical models
 - Program induction and language of thought models
-- Computational Cognitive Neuroscience
-<!-- - Final project due (Tuesday 5/14)   -->
+- Computational Cognitive Neuroscience <!-- - Final project due (Tuesday 5/14)   -->
 
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM  
