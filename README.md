@@ -5,11 +5,11 @@
 **Meeting time and location**:  
 Lecture  
 Mondays 1:35-3:15 PM  
-<!-- Silver Center for Arts & Science, 100 Washington Sq East, Room 520   -->
+Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 
 Lab  
 Tuesdays 2:40-3:30 PM  
-<!-- 60 Fifth Ave. Room 110   -->
+Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 
 **Course numbers**:  
 DS-GA 3001.005 (Data Science)  
@@ -63,7 +63,7 @@ Code submission is not required for the final project.
 
 ## Lecture schedule
 Mondays 1:35-3:15 PM
-<!-- 60 Fifth Ave. Room 110   -->
+Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - Introduction 
 - Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
 - Neural networks / Deep learning (part 2) <!-- - PRESIDENT'S DAY - NO CLASS -->
@@ -81,6 +81,7 @@ Mondays 1:35-3:15 PM
 
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM
+Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
