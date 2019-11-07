@@ -62,7 +62,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Mondays 1:35-3:15 PM
+Mondays 1:35-3:15 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - Introduction 
 - Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
@@ -80,7 +80,7 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - Computational Cognitive Neuroscience <!-- - Final project due (Tuesday 5/14)   -->
 
 ## Lab schedule TBD 
-Tuesdays 2:40-3:30 PM
+Tuesdays 2:40-3:30 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 
 ## Readings and slides
