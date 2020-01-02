@@ -67,7 +67,7 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 1/27 : Introduction 
 - 2/3 : Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
 - 2/10 : Neural networks / Deep learning (part 2)
-- 2/17 - NO CLASS - President's day
+- 2/17 : NO CLASS - President's day
 - 2/24 : Reinforcement learning (part 1)
 - 3/2 : Reinforcement learning (part 2) <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
 - 3/9 : Reinforcement learning (part 3) 
