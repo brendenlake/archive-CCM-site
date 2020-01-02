@@ -1,6 +1,6 @@
 **Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
-<!-- **Teaching Assistants**: [Reuben Feinman](http://www.cns.nyu.edu/~reuben/) and [Anselm Rothe](https://anselmrothe.github.io/) -->
+**Teaching Assistants**: Yanli Zhou and Graham Flick
 
 **Meeting time and location**:  
 Lecture  
@@ -64,20 +64,22 @@ Code submission is not required for the final project.
 ## Lecture schedule
 Mondays 1:35-3:15 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
-- Introduction 
-- Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
-- Neural networks / Deep learning (part 2) <!-- - PRESIDENT'S DAY - NO CLASS -->
-- Reinforcement learning (part 1)
-- Reinforcement learning (part 2) <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
-- Reinforcement learning (part 3)  <!-- - SPRING RECESS - NO CLASS -->
-- Bayesian modeling (part 1)  <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
-- Bayesian modeling (part 2)
-- Rational vs. mechanistic modeling 
-- Model comparison and fitting, tricks of the trade
-- Categorization <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
-- Probabilistic Graphical models
-- Program induction and language of thought models
-- Computational Cognitive Neuroscience <!-- - Final project due (Tuesday 5/14)   -->
+- 1/27 : Introduction 
+- 2/3 : Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
+- 2/10 : Neural networks / Deep learning (part 2)
+- 2/17 - NO CLASS - President's day
+- 2/24 : Reinforcement learning (part 1)
+- 3/2 : Reinforcement learning (part 2) <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
+- 3/9 : Reinforcement learning (part 3) 
+- 3/16 : NO CLASS - Spring recess
+- 3/23 : Bayesian modeling (part 1)  <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
+- 3/30 : Bayesian modeling (part 2)
+- 4/6 : Rational vs. mechanistic modeling 
+- 4/13 : Model comparison and fitting, tricks of the trade
+- 4/20 : Categorization <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
+- 4/27 : Probabilistic Graphical models
+- 5/4 : Program induction and language of thought models
+- 5/11 : Computational Cognitive Neuroscience <!-- - Final project due (Tuesday 5/14)   -->
 
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM  
