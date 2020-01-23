@@ -12,29 +12,28 @@ Tuesdays 2:40-3:30 PM
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 
 **Course numbers**:  
-DS-GA 3001.005 (Data Science)  
+DS-GA 1016 (Data Science)  
 PSYCH-GA 3405.002 (Psychology)  
 
 **Contact information and Piazza**:  
 We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
 
-<!-- The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005](https://piazza.com/nyu/spring2019/dsga3001005)). -->
+The signup link for our Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005](piazza.com/nyu/spring2020/dsga3001005)).
 
-<!-- Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2019/dsga3001005/home](https://piazza.com/nyu/spring2019/dsga3001005/home)). -->
+Once signed up, our class Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005/home](piazza.com/nyu/spring2020/dsga3001005/home)).
 
-<!-- If there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2019@nyuccl.org -->
+If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2020@nyuccl.org
 
-<!-- **Office hours**:  
+**Office hours**:  
 Todd Gureckis  
 todd.gureckis@nyu.edu 
-(Thursdays 2-4pm; 6 Washington Place, Meyer, Room 859)  
+(Time TBD; 6 Washington Place, Meyer, Room 859)  
 
 Brenden Lake  
-brenden@nyu.edu (Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610)  
- -->
+brenden@nyu.edu (Time TBD; 60 5th Ave., Room 610)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
-
+ 
 The lectures cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Modeling examples span a broad set of psychological abilities including learning, categorization, language, memory, decision making, and reasoning. The homework assignments include examining and implementing the models surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models to understand behavioral data.
 
 Please note that this syllabus is not final and there may be further adjustments.
