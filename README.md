@@ -25,7 +25,7 @@ Once signed up, our class Piazza page is available here ([piazza.com/nyu/spring2
 If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2020@nyuccl.org
 
 **Office hours**:  
-Todd Gureckis (Time TBD; 6 Washington Place, Meyer, Room 859)  
+Todd Gureckis (Tuesday at 1-2pm; 6 Washington Place, Meyer, Room 859)  
 Brenden Lake (Tuesdays at 10am; 60 5th Ave., Room 610)  
 Yanli Zhou (TBD)  
 Graham Flick (TBD)
@@ -145,5 +145,4 @@ No extra credit will be given, out of interest of fairness.
 Laptops in class are strongly discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). It also distracts everyone behind you if you are not engaged! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy everything down, and paper notes are great too.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. 
-<!-- Students can log onto the environment using their github login information [here](http://ccm-spring19.braincompute.io) assuming they have contacted the TAs and provided their username. -->
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsgs-3001005.rcnyu.org). 
