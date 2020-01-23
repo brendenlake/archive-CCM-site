@@ -30,7 +30,7 @@ todd.gureckis@nyu.edu
 (Time TBD; 6 Washington Place, Meyer, Room 859)  
 
 Brenden Lake  
-brenden@nyu.edu (Time TBD; 60 5th Ave., Room 610)
+brenden@nyu.edu (Tuesdays at 10am; 60 5th Ave., Room 610)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
  
