@@ -25,9 +25,9 @@ Once signed up, our class Piazza page is available here ([piazza.com/nyu/spring2
 If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2020@nyuccl.org
 
 **Office hours**:  
-Todd Gureckis (Time TBD; 6 Washington Place, Meyer, Room 859)  
-Brenden Lake (Tuesdays at 10am; 60 5th Ave., Room 610)  
-Yanli Zhou (TBD)  
+Todd Gureckis (Time TBD; 6 Washington Place, Meyer, Room 859)  
+Brenden Lake (Tuesdays at 10am; 60 5th Ave., Room 610)  
+Yanli Zhou (TBD)  
 Graham Flick (TBD)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
