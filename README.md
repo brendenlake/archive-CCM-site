@@ -47,7 +47,7 @@ The final grade is based on the homeworks (60%) and the final project (40%).
 Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-The final project proposal is due TBD (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+The final project proposal is due Wednesday, April 1 (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
 The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
@@ -74,14 +74,15 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 3/23 : Bayesian modeling (part 1)
   - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
 - 3/30 : Bayesian modeling (part 2)
-- 4/6 : Rational vs. mechanistic modeling 
+- Project proposal due (Wednesday April 1)
+- 4/6 : Rational vs. mechanistic modeling
 - 4/13 : Model comparison and fitting, tricks of the trade
 - 4/20 : Categorization
   - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
 - 4/27 : Probabilistic Graphical models
 - 5/4 : Program induction and language of thought models
 - 5/11 : Computational Cognitive Neuroscience
-  - Final project due (Wednesday 5/13)
+- Final project due (Wednesday 5/13)
 
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM  
