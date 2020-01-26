@@ -47,11 +47,11 @@ The final grade is based on the homeworks (60%) and the final project (40%).
 Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-<!-- The final project proposal is due TBD (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. -->
+The final project proposal is due TBD (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
-<!-- The final project is due TBD. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf. -->
+The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
-The final project will be done in groups of 1-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
+The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
@@ -62,21 +62,26 @@ Code submission is not required for the final project.
 Mondays 1:35-3:15 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 1/27 : Introduction 
-- 2/3 : Neural networks / Deep learning (part 1) <!-- - Homework 1 assigned (Due 2/25) (instructions for accessing [here](retrieving_hw.md))   -->
+- 2/3 : Neural networks / Deep learning (part 1)
+  - Homework 1 assigned (Due 2/24) (instructions for accessing [here](retrieving_hw.md))
 - 2/10 : Neural networks / Deep learning (part 2)
 - 2/17 : NO CLASS - President's day
 - 2/24 : Reinforcement learning (part 1)
-- 3/2 : Reinforcement learning (part 2) <!-- - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))   -->
+  - Homework 2 assigned (Due 3/23) (instructions for accessing [here](retrieving_hw.md))
+- 3/2 : Reinforcement learning (part 2)
 - 3/9 : Reinforcement learning (part 3) 
 - 3/16 : NO CLASS - Spring recess
-- 3/23 : Bayesian modeling (part 1)  <!-- - Homework 3 assigned (Due 4/10) (instructions for accessing [here](retrieving_hw.md))   -->
+- 3/23 : Bayesian modeling (part 1)
+  - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
 - 3/30 : Bayesian modeling (part 2)
 - 4/6 : Rational vs. mechanistic modeling 
 - 4/13 : Model comparison and fitting, tricks of the trade
-- 4/20 : Categorization <!-- - Homework 4 assigned (Due 5/3) (instructions for accessing [here](retrieving_hw.md))   -->
+- 4/20 : Categorization
+  - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
 - 4/27 : Probabilistic Graphical models
 - 5/4 : Program induction and language of thought models
-- 5/11 : Computational Cognitive Neuroscience <!-- - Final project due (Tuesday 5/14)   -->
+- 5/11 : Computational Cognitive Neuroscience
+  - Final project due (Wednesday 5/13)
 
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM  
