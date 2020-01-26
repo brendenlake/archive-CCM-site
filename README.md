@@ -61,7 +61,7 @@ Code submission is not required for the final project.
 ## Lecture schedule
 Mondays 1:35-3:15 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
-- 1/27 : Introduction 
+- 1/27 : Introduction ([slides](lectures/lecture-01-introduction.pdf))
 - 2/3 : Neural networks / Deep learning (part 1)
   - Homework 1 assigned (Due 2/24) (instructions for accessing [here](retrieving_hw.md))
 - 2/10 : Neural networks / Deep learning (part 2)
