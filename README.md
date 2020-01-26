@@ -87,6 +87,22 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 ## Lab schedule TBD 
 Tuesdays 2:40-3:30 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
+- 1/28 : Python and Jupyter notebooks review
+- 2/4 : Introduction to PyTorch
+- 2/11 : No lab
+- 2/18 : HW 1 Review
+- 2/25 : TBD
+- 3/3 : TBD
+- 3/10 : HW 2 Review
+- 3/17 : SPRING RECESS
+- 3/24 : Probability review
+- 3/31 : TBD
+- 4/7 : HW 3 Review
+- 4/14 : TBD
+- 4/21 : TBD
+- 4/28 : HW 4 Review
+- 5/5 : TBD
+- 5/12 : No lab (classes end 5/11)
 
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
