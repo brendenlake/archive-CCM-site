@@ -47,9 +47,9 @@ The final grade is based on the homeworks (60%) and the final project (40%).
 Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-The final project proposal is due Wednesday, April 1 (one half page written). Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+The final project proposal is due Wednesday, April 1 (one half page written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
-The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2019@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
+The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
@@ -150,7 +150,7 @@ Brains, Minds and Machines (CBMM).
 ## Course policies
 
 **Auditing**:  
-Please email instructor to see if there are available seats. Priority goes to registered students and then by date of audit request.
+We don't have room for any additional auditors at this point, if you haven't already emailed us. If you are auditing and you would like access to NYU classes and the readings, please add your email address [to this speadsheet](https://docs.google.com/spreadsheets/d/1tNEe5rFLpelJPZiYJfovBDDJjN5pcoC7xvhzHHoN3pU/edit?usp=sharing)
 
 **Collaboration and honor code**:  
 We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral.
