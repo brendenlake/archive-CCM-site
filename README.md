@@ -26,7 +26,7 @@ If you have a question that isn't suitable for Piazza and there is a need to ema
 
 **Office hours**:  
 Todd Gureckis (Tuesday at 1-2pm; 6 Washington Place, Meyer, Room 859)  
-Brenden Lake (Tuesdays at 10am; 60 5th Ave., Room 610)  
+Brenden Lake (Tuesdays at 10-11am; 60 5th Ave., Room 610)  
 Yanli Zhou (Wednesdays at 1-2pm; 60 5th Ave., Room 609)  
 Graham Flick (Wednesdays at 3-4pm; 10 Washington Place, 6th Floor)
 
