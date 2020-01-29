@@ -4,11 +4,11 @@ import time
 from sklearn import manifold
 import matplotlib.pyplot as plt
 from IPython.display import display, Markdown
-import plotly.plotly as py
-import plotly as py
-import plotly.graph_objs as go
-import plotly.grid_objs as gro
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
+#import plotly.plotly as py
+#import plotly as py
+#import plotly.graph_objs as go
+#import plotly.grid_objs as gro
+#from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 
 def neighborhoods(a, L, S ):  # Window len = L, Stride len/stepsize = S
     nrows = ((a.size-L)//S)+1
