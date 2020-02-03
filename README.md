@@ -18,7 +18,7 @@ PSYCH-GA 3405.002 (Psychology)
 **Contact information and Piazza**:  
 We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
 
-The signup link for our Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005](https://piazza.com/nyu/spring2020/dsga3001005)).
+The signup link for our Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005](https://piazza.com/nyu/spring2020/dsga3001005)). (code is COGSCI)
 
 Once signed up, our class Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005/home](https://piazza.com/nyu/spring2020/dsga3001005/home)).
 
