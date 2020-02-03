@@ -1,6 +1,6 @@
 # Obtaining the Homework
 
-If you are using the university provided Jupyter instance ([here](http://ccm-spring19.braincompute.io)) 
+If you are using the university provided Jupyter instance ([here](https://dsgs-3001005.rcnyu.org/)) 
 rather than your own personal computer the homeworks will automatically download into a folder in your account
 called `course-materials` each time you login.
 
