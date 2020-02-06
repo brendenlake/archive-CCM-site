@@ -48,7 +48,7 @@ cp -r PATH/TO/HW .
 For example, for homework 1 you would type
 
 ```
-cp -r CCM-site/homeworks/1-NeuralNet .
+cp -r CCM-site/homeworks/homework-NeuralNet .
 ```
 
 (don't forget trailing `.`)
