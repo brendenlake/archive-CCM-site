@@ -153,7 +153,7 @@ Brains, Minds and Machines (CBMM).
 - Turner, B.M., Forstmann, B.U., Love, B.C., Palmeri, T.J., Van Maanen, L. (2017). Approaches to analysis in model-based cognitive neuroscience. Journal of Mathematical Psychology. 76(B), 65-79.
 
 
-## Course policies
+## Course policies and FAQ
 
 **Auditing**:  
 We don't have room for any additional auditors at this point, if you haven't already emailed us. If you are auditing and you would like access to NYU classes and the readings, please add your email address [to this speadsheet](https://docs.google.com/spreadsheets/d/1tNEe5rFLpelJPZiYJfovBDDJjN5pcoC7xvhzHHoN3pU/edit?usp=sharing)
@@ -165,6 +165,12 @@ You may discuss the homework assignments with your classmates, but **you must ru
 
 **Late work**:  
 We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
+
+**Regrading**:  
+If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either **raised OR lowered** depending on what the regrade finds.
+
+**Did you forget to turn in part of the homework, or did it print improperly?**:  
+Please make sure that you double check that all of your answer appears clearly in the PDF version of your homework printout. We cannot regrade a homework because your answer did not display correctly in the submitted version. It is your responsibility to check before you submit.
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
