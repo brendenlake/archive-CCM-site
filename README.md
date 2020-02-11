@@ -53,6 +53,8 @@ The final project is due Wednesday 5/13. Please submit via email to instructors-
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
+**The final project must relate to computational cognitive modeling and cannot be a purely machine learning / data science project.** Thus, your project must connect, in some way, to the human mind and behavior. This could be collecting (informally) behavioral data to compare your computational model to. Or you could compare your model against results in the litearture or particular dataset of human behavior or ratings. Or you could compare your algorithm with human intelligence in a more abstract sense. There are many ways to make the connection, but your final project must connect to computational cognitive modeling.
+
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
 
@@ -156,21 +158,22 @@ Brains, Minds and Machines (CBMM).
 ## Course policies and FAQ
 
 **Auditing**:  
-We don't have room for any additional auditors at this point, if you haven't already emailed us. If you are auditing and you would like access to NYU classes and the readings, please add your email address [to this speadsheet](https://docs.google.com/spreadsheets/d/1tNEe5rFLpelJPZiYJfovBDDJjN5pcoC7xvhzHHoN3pU/edit?usp=sharing)
+We don't have room for any additional auditors at this point, if you haven't already emailed us.
 
 **Collaboration and honor code**:  
-We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral.
-
-You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
+We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
 
 **Late work**:  
 We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
+
+**Extensions**:  
+In interest of fairness, we only give out homework extensions in extraordinary circumstances. Moreover, you must submit a request for extension at least 24 hours before the due date of the assignment. Extensions will not be considered, for any reasons, within 24 hours of the due date or after the homework is due.
 
 **Regrading**:  
 If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either **raised OR lowered** depending on what the regrade finds.
 
 **Did you forget to turn in part of the homework, or did it print improperly?**:  
-Please make sure that you double check that all of your answer appears clearly in the PDF version of your homework printout. We cannot regrade a homework because your answer did not display correctly in the submitted version. It is your responsibility to check before you submit.
+Before turning in your assignment, double check that all of your answers appear clearly in the PDF printout. We will not regrade a homework because your answer did not display correctly in the version you submitted. It is your responsibility to check before you submit.
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
