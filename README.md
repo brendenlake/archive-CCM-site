@@ -167,7 +167,7 @@ We take the collaboration policy and [academic integrity](https://cas.nyu.edu/co
 We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
 
 **Extensions**:  
-In interest of fairness, we only give out homework extensions in extraordinary circumstances. Moreover, you must submit a request for extension at least 24 hours before the due date of the assignment. Extensions will not be considered, for any reasons, within 24 hours of the due date or after the homework is due.
+In interest of fairness, we only give out homework extensions in extraordinary circumstances. If you are requesting an extension, email the teaching team (instructors-ccm-spring2020@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment. Extensions will not be considered, for any reason, within 24 hours of the due date or after the homework is due.
 
 **Regrading**:  
 If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either **raised OR lowered** depending on what the regrade finds.
