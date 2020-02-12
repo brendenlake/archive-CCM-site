@@ -28,10 +28,10 @@ If you have a question that isn't suitable for Piazza and there is a need to ema
 Todd Gureckis (Tuesday at 1-2pm; 6 Washington Place, Meyer, Room 859)  
 Brenden Lake (Tuesdays at 10-11am; 60 5th Ave., Room 610)  
 Yanli Zhou (Wednesdays at 1-2pm; 60 5th Ave., Room 609)  
-Graham Flick (Wednesdays at 3-4pm; 10 Washington Place, 6th Floor)
+Graham Flick (Wednesdays at 3-4pm; 10 Washington Place, Room 607)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
- 
+
 The lectures cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Modeling examples span a broad set of psychological abilities including learning, categorization, language, memory, decision making, and reasoning. The homework assignments include examining and implementing the models surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models to understand behavioral data.
 
 Please note that this syllabus is not final and there may be further adjustments.
@@ -71,7 +71,7 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 2/24 : Reinforcement learning (part 1)
   - Homework 2 assigned (Due 3/23) (instructions for accessing [here](retrieving_hw.md))
 - 3/2 : Reinforcement learning (part 2)
-- 3/9 : Reinforcement learning (part 3) 
+- 3/9 : Reinforcement learning (part 3)
 - 3/16 : NO CLASS - Spring recess
 - 3/23 : Bayesian modeling (part 1)
   - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
@@ -86,7 +86,7 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 5/11 : Computational Cognitive Neuroscience
 - Final project due (Wednesday 5/13)
 
-## Lab schedule TBD 
+## Lab schedule TBD
 Tuesdays 2:40-3:30 PM  
 Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 1/28 : Python and Jupyter notebooks review
@@ -117,7 +117,7 @@ Papers are available for download on NYU Classes in the "Resources" folder.
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society.
 
 **Reinforcement learning and decision making**
-- Gureckis, T.M. and Love, B.C. (2015) Reinforcement learning: A computational perspective. Oxford Handbook of Computational and Mathematical Psychology, Edited by Busemeyer, J.R., Townsend, J., Zheng, W., and Eidels, A., Oxford University Press, New York, NY.	
+- Gureckis, T.M. and Love, B.C. (2015) Reinforcement learning: A computational perspective. Oxford Handbook of Computational and Mathematical Psychology, Edited by Busemeyer, J.R., Townsend, J., Zheng, W., and Eidels, A., Oxford University Press, New York, NY.
 - Daw, N.S. (2013) "Advanced Reinforcement Learning" Chapter in Neuroeconomics: Decision making and the brain, 2nd edition
 - Niv, Y. and Schoenbaum, G. (2008) “Dialogues on prediction errors” Trends in Cognitive Science, 12(7), 265-72.
 - Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
@@ -146,7 +146,7 @@ Papers are available for download on NYU Classes in the "Resources" folder.
 
 **Program induction and language of thought models**
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
-- Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for 
+- Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for
 Brains, Minds and Machines (CBMM).
 - Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. Science, 350(6266), 1332-1338.
 
@@ -182,4 +182,4 @@ No extra credit will be given, out of interest of fairness.
 Laptops in class are strongly discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). It also distracts everyone behind you if you are not engaged! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy everything down, and paper notes are great too.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsgs-3001005.rcnyu.org). 
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsgs-3001005.rcnyu.org).
