@@ -93,7 +93,7 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 2/4 : Introduction to PyTorch
 - 2/11 : No lab
 - 2/18 : HW 1 Review
-- 2/25 : TBD
+- 2/25 : No lab
 - 3/3 : TBD
 - 3/10 : HW 2 Review
 - 3/17 : SPRING RECESS
