@@ -161,7 +161,7 @@ We can't accommodate more auditors at this point.
 **Collaboration and honor code**:  
 We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
 
-**Late work**:  
+**Dropping your lowest homework**:  
 At the end of the semester, we will drop your lowest homework grade (in terms of % correct). We still encourage you to complete all of the homeworks, as we designed them to help solidify the course material and we hope they will be valuable to you. However this drop policy gives you flexibility if unexpected circumstances arise.
 
 **Late work**:  
