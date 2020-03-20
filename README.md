@@ -5,11 +5,10 @@
 **Meeting time and location**:  
 Lecture  
 Mondays 1:35-3:15 PM  
-Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 
 Lab  
 Tuesdays 2:40-3:30 PM  
-Silver Center for Arts & Science, 100 Washington Sq East, Room 520
+Access via the Zoom link in NYU Classes
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
@@ -24,11 +23,11 @@ Once signed up, our class Piazza page is available here ([piazza.com/nyu/spring2
 
 If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2020@nyuccl.org
 
-**Office hours**:  
-Todd Gureckis (Tuesday at 1-2pm; 6 Washington Place, Meyer, Room 859)  
-Brenden Lake (Tuesdays at 10-11am; 60 5th Ave., Room 610)  
-Yanli Zhou (Wednesdays at 1-2pm; 60 5th Ave., Room 609)  
-Graham Flick (Wednesdays at 3-4pm; 10 Washington Place, Room 607)
+**Office hours (via Zoom. Look for links posted on Piazza)**:  
+Todd Gureckis (Tuesday at 1-2pm eastern)  
+Brenden Lake (Tuesdays at 10-11am eastern)  
+Yanli Zhou (Wednesdays at 1-2pm eastern)  
+Graham Flick (Wednesdays at 3-4pm eastern)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -42,12 +41,12 @@ Please note that this syllabus is not final and there may be further adjustments
 - Programming: Previous experience with Python is required. The assignments will use Python 3 and Jupyter Notebooks (http://jupyter.org). We will have a Python refresher in lab, and we also recommend this tutorial (http://openbookproject.net/thinkcs/python/english3e/).
 
 ## Grading
-The final grade is based on the homeworks (60%) and the final project (40%).
+The final grade is based on the homeworks (60%) and the final project (40%). We also added this policy: We will drop the lowest grade (in percent correct) from the four homework assignments.
 
 Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-The final project proposal is due Wednesday, April 1 (one half page written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+The final project proposal is due Monday, April 6 (one half page written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
 The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
@@ -61,8 +60,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Mondays 1:35-3:15 PM  
-Silver Center for Arts & Science, 100 Washington Sq East, Room 520
+Mondays 1:35-3:15 PM    
 - 1/27 : Introduction ([slides](lectures/lecture-01-introduction.pdf))
 - 2/3 : Neural networks / Deep learning (part 1) ([slides](lectures/lecture-02-neural_nets.pdf))
   - Homework 1 assigned on 2/5 (Due 2/24) (instructions for accessing [here](retrieving_hw.md))
@@ -70,14 +68,14 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 2/17 : NO CLASS - President's day
 - 2/24 : Reinforcement learning (part 1) ([slides](lectures/lecture-04-reinforcementlearning.pdf))
 - 3/2 : Reinforcement learning (part 2) ([slides](lectures/lecture-05-reinforcementlearning.pdf))
-  - Homework 2 assigned (Due 3/23) (instructions for accessing [here](retrieving_hw.md))
+  - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))
 - 3/9 : Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))
 - 3/16 : NO CLASS - Spring recess
 - 3/23 : Bayesian modeling (part 1)
   - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
 - 3/30 : Bayesian modeling (part 2)
-- Project proposal due (Wednesday April 1)
 - 4/6 : Rational vs. mechanistic modeling
+  - Project proposal due (Monday April 6)
 - 4/13 : Model comparison and fitting, tricks of the trade
 - 4/20 : Categorization
   - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
@@ -86,9 +84,9 @@ Silver Center for Arts & Science, 100 Washington Sq East, Room 520
 - 5/11 : Computational Cognitive Neuroscience
 - Final project due (Wednesday 5/13)
 
-## Lab schedule TBD
+## Lab schedule
 Tuesdays 2:40-3:30 PM  
-Silver Center for Arts & Science, 100 Washington Sq East, Room 520
+via Zoom link on NYU classes  
 - 1/28 : Python and Jupyter notebooks review
 - 2/4 : Introduction to PyTorch
 - 2/11 : No lab
@@ -158,28 +156,28 @@ Brains, Minds and Machines (CBMM).
 ## Course policies and FAQ
 
 **Auditing**:  
-We don't have room for any additional auditors at this point, if you haven't already emailed us.
+We can't accommodate more auditors at this point.
 
 **Collaboration and honor code**:  
 We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
 
 **Late work**:  
+At the end of the semester, we will drop your lowest homework grade (in terms of % correct). We still encourage you to complete all of the homeworks, as we designed them to help solidify the course material and we hope they will be valuable to you. However this drop policy gives you flexibility if unexpected circumstances arise.
+
+**Late work**:  
 We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
 
 **Extensions**:  
-In interest of fairness, we only give out homework extensions in extraordinary circumstances. If you are requesting an extension, email the teaching team (instructors-ccm-spring2020@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment. Extensions will not be considered, for any reason, within 24 hours of the due date or after the homework is due.
+If you are requesting an extension, email the teaching team (instructors-ccm-spring2020@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
-If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either **raised OR lowered** depending on what the regrade finds.
+If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds.
 
 **Did you forget to turn in part of the homework, or did it print improperly?**:  
-Before turning in your assignment, double check that all of your answers appear clearly in the PDF printout. We will not regrade a homework because your answer did not display correctly in the version you submitted. It is your responsibility to check before you submit.
+Before turning in your assignment, double check that all of your answers appear clearly in the PDF printout. We will not regrade a homework because your answer did not display correctly in the version you submitted.
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
-
-**Laptops in class**:  
-Laptops in class are strongly discouraged. We know many try to take notes on their laptops, but it’s easy to get distracted (social media, etc.). It also distracts everyone behind you if you are not engaged! We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted so there is no need to copy everything down, and paper notes are great too.
 
 ## Preconfigured cloud environment
 Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsgs-3001005.rcnyu.org).
