@@ -87,7 +87,6 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 
 ## Lab schedule
 Tuesdays 2:40-3:30 PM (via NYU classes Zoom tool)  
-via Zoom link on NYU classes  
 - 1/28 : Python and Jupyter notebooks review
 - 2/4 : Introduction to PyTorch
 - 2/11 : No lab
