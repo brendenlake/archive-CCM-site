@@ -3,8 +3,9 @@
 **Teaching Assistants**: Yanli Zhou and Graham Flick
 
 **Meeting time and location**:  
-Lecture  
-Mondays 1:35-3:15 PM  
+We have a "flipped classroom" model for lecture  
+Lecture is pre-recorded and available on Vimeo  
+Live discussion is on Mondays 1:35-2:35 PM  
 
 Lab  
 Tuesdays 2:40-3:30 PM  
@@ -60,7 +61,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Mondays 1:35-3:15 PM    
+Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)        
 - 1/27 : Introduction ([slides](lectures/lecture-01-introduction.pdf))
 - 2/3 : Neural networks / Deep learning (part 1) ([slides](lectures/lecture-02-neural_nets.pdf))
   - Homework 1 assigned on 2/5 (Due 2/24) (instructions for accessing [here](retrieving_hw.md))
@@ -85,7 +86,7 @@ Mondays 1:35-3:15 PM
 - Final project due (Wednesday 5/13)
 
 ## Lab schedule
-Tuesdays 2:40-3:30 PM  
+Tuesdays 2:40-3:30 PM (via NYU classes Zoom tool)  
 via Zoom link on NYU classes  
 - 1/28 : Python and Jupyter notebooks review
 - 2/4 : Introduction to PyTorch
