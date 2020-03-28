@@ -96,7 +96,7 @@ Tuesdays 2:40-3:30 PM (via NYU classes Zoom tool)
 - 3/10 : HW 2 Review
 - 3/17 : SPRING RECESS
 - 3/24 : Probability review
-- 3/31 : TBD
+- 3/31 : No lab
 - 4/7 : HW 3 Review
 - 4/14 : TBD
 - 4/21 : TBD
