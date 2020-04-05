@@ -47,7 +47,7 @@ The final grade is based on the homeworks (60%) and the final project (40%). We 
 Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-The final project proposal is due Monday, April 6 (one half page written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+The final project proposal is due Monday, April 6 (0.5 pages written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
 The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
