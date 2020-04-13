@@ -77,7 +77,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - 3/30 : Bayesian modeling (part 2) (for slides see part 1) ([video](https://vimeo.com/400435600))
 - 4/6 : Model comparison and fitting, tricks of the trade ([slides](lectures/lecture-09-modelfit.pdf))
   - Project proposal due (Monday April 6)
-- 4/13 : Categorization
+- 4/13 : Categorization ([slides](lectures/lecture-10-categorization.pdf)) ([video](https://vimeo.com/407047389))
   - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
 - 4/20 : Rational vs. mechanistic modeling, Information Sampling
 - 4/27 : Probabilistic Graphical models
