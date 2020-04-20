@@ -73,7 +73,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - 3/9 : Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))([video](https://vimeo.com/404085989))
 - 3/16 : NO CLASS - Spring recess
 - 3/23 : Bayesian modeling (part 1) ([slides](lectures/lecture-07-bayesian_modeling.pdf)) ([video](https://vimeo.com/399514147))
-  - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md)) 
+  - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
 - 3/30 : Bayesian modeling (part 2) (for slides see part 1) ([video](https://vimeo.com/400435600))
 - 4/6 : Model comparison and fitting, tricks of the trade ([slides](lectures/lecture-09-modelfit.pdf))([video](https://vimeo.com/404348821))
   - Project proposal due (Monday April 6)
@@ -98,8 +98,8 @@ Tuesdays 2:40-3:30 PM (via NYU classes Zoom tool)
 - 3/24 : Probability review
 - 3/31 : No lab
 - 4/7 : HW 3 Review
-- 4/14 : TBD
-- 4/21 : TBD
+- 4/14 : No lab
+- 4/21 : No lab
 - 4/28 : HW 4 Review
 - 5/5 : TBD
 - 5/12 : No lab (classes end 5/11)
