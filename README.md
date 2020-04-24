@@ -171,7 +171,7 @@ We will take off 10% for each day a homework or final project is late. Assignmen
 If you are requesting an extension, email the teaching team (instructors-ccm-spring2020@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
-If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds.
+If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via gradescope.
 
 **Did you forget to turn in part of the homework, or did it print improperly?**:  
 Before turning in your assignment, double check that all of your answers appear clearly in the PDF printout. We will not regrade a homework because your answer did not display correctly in the version you submitted.
