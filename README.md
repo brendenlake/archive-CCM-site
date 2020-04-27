@@ -81,7 +81,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
   - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
 - 4/20 : Probabilistic Graphical models ([slides](lectures/lecture-11-graphical_models.pdf)) ([video](https://vimeo.com/407755101))
 - 4/27 : Information sampling and active learning ([slides](lectures/lecture-12-activelearning.pdf)) ([video](https://vimeo.com/412183257))
-- 5/4 : Program induction and language of thought models
+- 5/4 : Program induction and language of thought models ([slides](lectures/lecture-13-program_induction.pdf)) ([video](https://vimeo.com/410406345))
 - 5/11 : Computational Cognitive Neuroscience
 - Final project due (Wednesday 5/13)
 
