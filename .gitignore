@@ -1,0 +1,14 @@
+*.sublime-*
+_*.py
+temp.py
+test.py
+.ipynb_checkpoints/
+*.bbl
+*.aux
+*.log
+*.out
+*.gz
+.DS_Store
+lecture_demos
+*.pyc
+serve.sh
